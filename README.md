@@ -1,16 +1,3 @@
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              D E T E C T I V E   L .                         ║
-║                                                              ║
-║         『 FULL STACK SORCERER 』                             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=9F5AFD&center=true&vCenter=true&width=800&lines=DOMAIN+EXPANSION:+UNLIMITED+INFORMATION;SIX+EYES:+ANALYTICAL+PERCEPTION;LIMITLESS:+FULL+STACK+MASTERY" alt="Typing Animation" />
