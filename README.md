@@ -1,114 +1,196 @@
-
-
 <div align="center">
-  <table width="100%" style="margin-top: 10px;">
-    <tr>
-      <td align="center">
-        <a href="https://shivarajm8234.github.io/shivarajm8234/">
-          <img src="https://img.shields.io/badge/🔮_ENTER_DOMAIN-LIVE_PORTFOLIO-8a2be2?style=for-the-badge&logo=vercel&logoColor=white&height=40" alt="Live Portfolio">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#services">
-           <img src="https://img.shields.io/badge/Services-Available-3b82f6?style=for-the-badge&logo=codepen&logoColor=white&height=40" alt="Services">
-        </a>
-      </td>
-       <td align="center">
-        <a href="#contact">
-           <img src="https://img.shields.io/badge/Contact-Drop_a_Clue-050505?style=for-the-badge&logo=gmail&logoColor=white&height=40" alt="Contact">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="portfolio/src/assets/gojo_theme.png" width="100%" alt="Gojo Satoru Banner">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=9F5AFD&center=true&vCenter=true&width=600&lines=Subject:+Detective+L.;Cursed+Technique:+Full+Stack+AI.;Domain+Expansion:+Unlimited+Information." alt="Dynamic Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=9F5AFD&center=true&vCenter=true&width=700&lines=DETECTIVE+L.;FULL+STACK+SORCERER;DOMAIN+EXPANSION:+UNLIMITED+INFORMATION" alt="Typing Animation" />
 </div>
 
-<hr />
+<br/>
 
-<h2 align="center">⚡ 01. THE HONORED ONE</h2>
-
-<p align="center">
 <div align="center">
-  <img src="portfolio/src/assets/gojo_theme.png" width="100%" height="auto" alt="Banner" style="border-radius: 4px;">
+  
+[![ENTER DOMAIN](https://img.shields.io/badge/ENTER_DOMAIN-LIVE_PORTFOLIO-9F5AFD?style=for-the-badge&labelColor=050505)](https://shivarajm8234.github.io/shivarajm8234/)
+[![TECHNIQUES](https://img.shields.io/badge/CURSED_TECHNIQUES-AVAILABLE-60A5FA?style=for-the-badge&labelColor=050505)](#techniques)
+[![CONTACT](https://img.shields.io/badge/DROP_A_CLUE-CONTACT-FFFFFF?style=for-the-badge&labelColor=050505)](#contact)
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://camo.githubusercontent.com/2471fc00f0257684bd9b86c7009ffd4c96b92a885ee55a022cbd3d21a15aa699/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d4a6574427261696e732b4d6f6e6f2673697a653d32342670617573653d3130303026636f6c6f723d3946354146442663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d5375626a6563743a2b4465746563746976652b4c2e3b4375727365642b546563686e697175653a2b46756c6c2b537461636b2b41492e3b446f6d61696e2b457870616e73696f6e3a2b556e6c696d697465642b496e666f726d6174696f6e2e" alt="Typing Header" />
+  
+### **『 THE HONORED ONE 』**
+*"Throughout Heaven and Earth, I alone am the honored one."*
+
 </div>
 
-<br />
+---
+
+## **I. INNATE TECHNIQUES** `[ LIMITLESS ]`
+
+<table>
+<tr>
+<td width="50%">
+
+### **INFINITY** `∞`
+```yaml
+Type: Defensive Architecture
+Effect: Infinite separation between 
+       sensitive data and threats
+Implementation: Multi-layer API security
+Status: ACTIVE
+```
+
+</td>
+<td width="50%">
+
+### **NEUTRAL LIMITLESS**
+```yaml
+Type: Traffic Control
+Effect: Automatic threat interception
+       before system impact
+Implementation: Load balancing + filtering
+Status: ACTIVE
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### **BLUE** `蒼`
+```yaml
+Type: Data Aggregation
+Effect: Vacuum-pull disparate datasets
+       into unified state
+Stack: SQL | NoSQL | REST APIs
+Status: ACTIVE
+```
+
+</td>
+<td width="50%">
+
+### **RED** `赫`
+```yaml
+Type: Deployment Pipeline
+Effect: High-velocity push updates
+       with overwhelming force
+Stack: CI/CD | Docker | K8s
+Status: ACTIVE
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <h3><a href="https://shivarajm8234.github.io/shivarajm8234/">ACCESS LIVE PORTFOLIO SYSTEM</a></h3>
+
+### **HOLLOW PURPLE** `虚式「茈」`
+```
+Frontend (BLUE) + Backend (RED) = ABSOLUTE FUSION
+Erases technical debt at atomic level
+```
+
 </div>
 
-<hr />
+---
 
-## I. CORE DEVELOPMENT STACK (INNATE TECHNIQUES)
-
-| Technique | Implementation |
-| :--- | :--- |
-| **Secure Architecture** (Infinity) | robust API layers creating infinite separation between sensitive data and unauthorized access. |
-| **Traffic Control** (Neutral Limitless) | Automatic load balancing and request interception to halt malicious vectors before impact. |
-| **Data Aggregation** (Blue) | Vacuum-like capacity to pull disparate datasets (SQL, NoSQL, APIs) into a single unified state. |
-| **Deployment Pipelines** (Red) | High-velocity CI/CD workflows that push updates with repulsive speed and power. |
-| **Full Stack Fusion** (Hollow Purple) | The seamless combination of Frontend (Blue) and Backend (Red) to erase technical debt and deliver pure functionality. |
-
-<br />
-
-## II. ANALYTICAL CAPABILITIES (SIX EYES)
-
-*   **Deep Code Inspection**: Ability to visualize logic flows and dependency graphs in microscopic detail.
-*   **Algorithmic Efficiency**: Near-zero resource consumption through O(1) or O(log n) optimizations.
-*   **Clean Code Principles**: No wasted lines; absolute energy efficiency in syntax and structure.
-*   **Rapid Debugging**: Instant identification and resolution of system anomalies and bugs.
-
-<br />
-
-## III. SYSTEM ARCHITECTURE (DOMAIN EXPANSION)
-
-**Domain: Unlimited Information**
-*   **Overwhelming Scale**: Architectures designed to handle infinite data streams without latency.
-*   **Guaranteed Execution**: Unit and Integration testing suites ensure functions cannot miss their targets.
-*   **High Performance**: Latency reduced to 0.2s, creating a seamless user experience.
-
-<br />
-
-## IV. WORKFLOW OPTIMIZATION (ENERGY CONTROL)
-
-*   **Self-Healing Systems**: Automated restart scripts and error-handling routines (Reverse Cursed Technique).
-*   **Continuous Learning**: Constant absorption of new frameworks and languages without fatigue.
-*   **Peak Performance**: Ability to maintain deep focus for extended coding sessions.
-
-<br />
-
-## V. STRATEGIC EXECUTION (COMBAT & TACTICAL)
-
-*   **Rapid Prototyping**: Effortlessly outpaces standard development cycles.
-*   **System Design**: Genius-level architectural planning and component improvisation.
-*   **Mental Modeling**: Deconstructing complex problems before writing a single line of code.
-*   **Project Dominance**: Controlling the development lifecycle from requirements to deployment.
-
-<br />
-
-## VI. PROFESSIONAL STATUS
-
-*   **Role**: Senior Full Stack Developer & AI Architect
-*   **Specialization**: A unique combination of Limitless Creativity and Analytical Precision.
-*   **Status**: Solves "Special Grade" technical challenges standard developers cannot handle.
-
-<hr />
+## **II. SIX EYES** `六眼`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mshivaraj/">LINKEDIN</a> • 
-  <a href="https://leetcode.com/u/shivarajm8234/">LEETCODE</a> • 
-  <a href="mailto:shivarajmani2005@gmail.com">EMAIL</a>
+
+| CAPABILITY | IMPLEMENTATION |
+|:---:|:---|
+| **PERCEPTION** | Microscopic visualization of logic flows and dependency graphs |
+| **EFFICIENCY** | Near-zero resource consumption through `O(1)` and `O(log n)` optimizations |
+| **PRECISION** | Absolute energy efficiency - no wasted lines of code |
+| **ANALYSIS** | Instant identification and resolution of system anomalies |
+
 </div>
 
+---
+
+## **III. DOMAIN EXPANSION** `領域展開`
+
 <div align="center">
-  <br />
-  <small>© 2026 Detective L. All Systems Online.</small>
+
+### **『 UNLIMITED INFORMATION 』** `無量空処`
+
+</div>
+
+```diff
++ OVERWHELMING SCALE
+  Architectures handling infinite data streams without latency
+
++ GUARANTEED EXECUTION  
+  Unit & Integration testing ensuring 100% hit rate
+
++ HIGH PERFORMANCE
+  Latency reduced to 0.2s for seamless UX
+```
+
+---
+
+## **IV. REVERSE CURSED TECHNIQUE** `反転術式`
+
+<div align="center">
+
+| TECHNIQUE | APPLICATION |
+|:---:|:---|
+| **SELF-HEALING** | Automated restart scripts & error-handling routines |
+| **CONTINUOUS REGENERATION** | Constant absorption of new frameworks without fatigue |
+| **PEAK CONDITION** | Deep focus maintenance for extended coding sessions |
+
+</div>
+
+---
+
+## **V. COMBAT PROWESS** `戦闘能力`
+
+```typescript
+interface CombatAbilities {
+  rapidPrototyping: "Outpaces standard development cycles";
+  systemDesign: "Genius-level architectural planning";
+  mentalModeling: "Problem deconstruction before execution";
+  projectDominance: "Full lifecycle control from requirements to deployment";
+}
+```
+
+---
+
+## **VI. SORCERER GRADE** `術師等級`
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║              SPECIAL GRADE DEVELOPER                   ║
+║                                                        ║
+║  Role: Senior Full Stack Developer & AI Architect      ║
+║  Specialization: Limitless Creativity + Six Eyes       ║
+║  Status: Solves challenges standard devs cannot        ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center" id="contact">
+
+### **『 ESTABLISH CONNECTION 』**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mshivaraj/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivarajm8234/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivarajmani2005@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2026 Detective L. | Domain Status: ACTIVE</sub>
 </div>
