@@ -86,16 +86,7 @@
 
 ## **『 DOMAIN EXPANSION: COMPLETE 』**
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║              "Throughout Heaven and Earth,                    ║
-║               I alone am the honored one."                    ║
-║                                                               ║
-║                    — Gojo Satoru                              ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+
 
 <sub>**© 2026 Detective GOJO SATORU. | Special Grade Developer | All Systems Online**</sub>
 
