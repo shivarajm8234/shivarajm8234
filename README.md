@@ -44,37 +44,37 @@
 <table>
 <tr>
 <td width="50%" align="center">
-
-![Section 1: Innate Techniques](.github/assets/section_1_techniques.svg?v=2)
-
-</td>
-<td width="50%" align="center">
-
-![Section 2: Six Eyes](.github/assets/section_2_six_eyes.svg?v=2)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-![Section 3: Domain Expansion](.github/assets/section_3_domain.svg?v=2)
+  
+![Section 1: Innate Techniques](.github/assets/section_1_techniques.svg?v=3)
 
 </td>
 <td width="50%" align="center">
-
-![Section 4: Reverse Cursed Technique](.github/assets/section_4_reverse.svg?v=2)
+  
+![Section 2: Six Eyes](.github/assets/section_2_six_eyes.svg?v=3)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-
-![Section 5: Combat Prowess](.github/assets/section_5_combat.svg?v=2)
+  
+![Section 3: Domain Expansion](.github/assets/section_3_domain.svg?v=3)
 
 </td>
 <td width="50%" align="center">
+  
+![Section 4: Reverse Cursed Technique](.github/assets/section_4_reverse.svg?v=3)
 
-![Section 6: Sorcerer Profile](.github/assets/section_6_profile.svg?v=2)
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  
+![Section 5: Combat Prowess](.github/assets/section_5_combat.svg?v=3)
+
+</td>
+<td width="50%" align="center">
+  
+![Section 6: Sorcerer Profile](.github/assets/section_6_profile.svg?v=3)
 
 </td>
 </tr>
