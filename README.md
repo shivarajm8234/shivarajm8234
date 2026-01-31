@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="portfolio/src/assets/gojo_theme.png" width="100%" alt="Gojo Satoru">
-</div>
 
-<div align="center">
-  
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -47,6 +43,10 @@
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivarajmani2005@gmail.com)
 
 </div>
+
+<br/>
+
+<img src="portfolio/src/assets/gojo_theme.png" width="100%" alt="Gojo Satoru">
 
 </div>
 
