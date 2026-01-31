@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="portfolio/src/assets/gojo_theme.png" width="100%" height="auto" alt="Banner" style="border-radius: 10px; opacity: 0.9;">
+  <img src="https://raw.githubusercontent.com/shivarajm8234/shivarajm8234/main/portfolio/src/assets/gojo_theme.png" width="100%" height="auto" alt="Banner" style="border-radius: 10px; opacity: 0.9;">
 </div>
 
 <div align="center">
