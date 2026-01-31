@@ -34,7 +34,7 @@
   
   <!-- Role -->
   <text x="600" y="190" font-family="monospace" font-size="26" fill="#F59E0B" text-anchor="middle" font-weight="bold">
-    FULL STACK DEVELOPER & AI SYSTEMS ENGINEER
+    FULL STACK DEVELOPER &amp; AI SYSTEMS ENGINEER
   </text>
   
   <!-- Divider -->
@@ -47,7 +47,7 @@
   <g>
     <circle cx="170" cy="285" r="5" fill="#F59E0B"/>
     <text x="190" y="290" font-family="monospace" font-size="16" fill="#C0C0C0">
-      AI Agents & Automation
+      AI Agents &amp; Automation
     </text>
     
     <circle cx="170" cy="320" r="5" fill="#F59E0B"/>
@@ -62,7 +62,7 @@
     
     <circle cx="650" cy="320" r="5" fill="#F59E0B"/>
     <text x="670" y="325" font-family="monospace" font-size="16" fill="#C0C0C0">
-      System Design & Architecture
+      System Design &amp; Architecture
     </text>
   </g>
   

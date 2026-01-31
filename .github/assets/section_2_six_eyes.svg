@@ -76,7 +76,7 @@
     <!-- Clean Code -->
     <rect x="80" y="420" width="520" height="220" fill="#0f0f1a" stroke="#60A5FA" stroke-width="2" rx="10"/>
     <text x="340" y="455" font-family="monospace" font-size="20" fill="#60A5FA" text-anchor="middle" font-weight="bold">
-      CLEAN CODE & MAINTAINABILITY
+      CLEAN CODE &amp; MAINTAINABILITY
     </text>
     <text x="100" y="490" font-family="monospace" font-size="14" fill="#C0C0C0">
       <tspan x="100" dy="0">Writes concise, modular, and readable</tspan>

@@ -31,7 +31,7 @@
     <!-- Rapid Prototyping -->
     <rect x="80" y="160" width="520" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
     <text x="340" y="195" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
-      RAPID PROTOTYPING & MVP BUILDING
+      RAPID PROTOTYPING &amp; MVP BUILDING
     </text>
     <text x="100" y="230" font-family="monospace" font-size="14" fill="#C0C0C0">
       <tspan x="100" dy="0">Translates vague ideas into working prototypes quickly,</tspan>
@@ -65,7 +65,7 @@
     <!-- Project Ownership -->
     <rect x="620" y="370" width="500" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
     <text x="870" y="405" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
-      PROJECT OWNERSHIP & CONTROL
+      PROJECT OWNERSHIP &amp; CONTROL
     </text>
     <text x="640" y="440" font-family="monospace" font-size="14" fill="#C0C0C0">
       <tspan x="640" dy="0">Independently manages complex projects, balances</tspan>

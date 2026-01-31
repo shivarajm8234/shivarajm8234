@@ -41,7 +41,7 @@
   
   <!-- Subtitle -->
   <text x="600" y="210" font-family="monospace" font-size="22" fill="#A78BFA" text-anchor="middle" font-weight="bold">
-    DATA-INTENSIVE & AI-DRIVEN APPLICATIONS
+    DATA-INTENSIVE &amp; AI-DRIVEN APPLICATIONS
   </text>
   
   <!-- Content Sections -->
@@ -62,10 +62,10 @@
       <tspan x="100" dy="18">• Modular Services</tspan>
     </text>
     
-    <!-- Reliability & Testing -->
+    <!-- Reliability &amp; Testing -->
     <rect x="435" y="250" width="330" height="320" fill="#0f0f1a" stroke="#9F5AFD" stroke-width="2" rx="10"/>
     <text x="600" y="285" font-family="monospace" font-size="18" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
-      RELIABILITY & TESTABILITY
+      RELIABILITY &amp; TESTABILITY
     </text>
     <text x="455" y="320" font-family="monospace" font-size="13" fill="#C0C0C0">
       <tspan x="455" dy="0" font-weight="bold" fill="#9F5AFD">Capability:</tspan>
