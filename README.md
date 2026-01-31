@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpapers.com/images/hd/gojo-satoru-4k-dark-blue-eyes-2y42q208g0099450.jpg" width="100%" height="auto" alt="Banner" style="border-radius: 10px; opacity: 0.9;">
+  <img src="portfolio/src/assets/gojo_theme.png" width="100%" height="auto" alt="Banner" style="border-radius: 10px; opacity: 0.9;">
 </div>
 
 <div align="center">
