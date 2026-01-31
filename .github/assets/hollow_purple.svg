@@ -1,0 +1,59 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purpleBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#60A5FA;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#9F5AFD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EF4444;stop-opacity:0" />
+    </linearGradient>
+    <filter id="hollowGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0a0a0a"/>
+  
+  <!-- Fusion circles -->
+  <circle cx="250" cy="200" r="50" fill="#60A5FA" opacity="0.5" filter="url(#hollowGlow)">
+    <animate attributeName="cx" values="250;350;250" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="200" r="50" fill="#EF4444" opacity="0.5" filter="url(#hollowGlow)">
+    <animate attributeName="cx" values="550;450;550" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Central purple beam -->
+  <rect x="200" y="180" width="400" height="40" fill="url(#purpleBeam)" filter="url(#hollowGlow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Hollow Purple sphere -->
+  <circle cx="400" cy="200" r="70" fill="none" stroke="#9F5AFD" stroke-width="4" filter="url(#hollowGlow)">
+    <animate attributeName="r" values="70;90;70" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="4;6;4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="400" cy="200" r="40" fill="#9F5AFD" opacity="0.3">
+    <animate attributeName="r" values="40;60;40" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Japanese character -->
+  <text x="400" y="220" font-family="serif" font-size="50" fill="#9F5AFD" text-anchor="middle" opacity="0.4" font-weight="bold">
+    虚式
+  </text>
+  
+  <!-- Title -->
+  <text x="400" y="350" font-family="monospace" font-size="24" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
+    虚式「茈」 HOLLOW PURPLE - FULL STACK FUSION
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="380" font-family="monospace" font-size="14" fill="#A78BFA" text-anchor="middle">
+    Frontend + Backend = Absolute Mastery
+  </text>
+</svg>

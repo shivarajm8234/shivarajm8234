@@ -54,6 +54,12 @@
 
 ## **I. INNATE TECHNIQUES** `[ LIMITLESS ]` `術式`
 
+<div align="center">
+  
+![Infinity](.github/assets/infinity.svg)
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -83,6 +89,15 @@ Status: ✓ ACTIVE
 
 </td>
 </tr>
+</table>
+
+<div align="center">
+  
+![Blue](.github/assets/blue.svg)
+
+</div>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -99,6 +114,20 @@ Status: ✓ ACTIVE
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+  
+![Red](.github/assets/red.svg)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### **赫 RED** `斥力`
 ```yaml
 Classification: Deployment Pipeline
@@ -110,10 +139,15 @@ Status: ✓ ACTIVE
 ```
 
 </td>
+<td width="50%" valign="top">
+
+</td>
 </tr>
 </table>
 
 <div align="center">
+
+![Hollow Purple](.github/assets/hollow_purple.svg)
 
 ### **虚式「茈」 HOLLOW PURPLE**
 
@@ -127,6 +161,12 @@ Status: ✓ ACTIVE
 </div>
 
 ---
+
+<div align="center">
+  
+![Six Eyes](.github/assets/six_eyes.svg)
+
+</div>
 
 ## **II. SIX EYES** `六眼` *[ ANALYTICAL PERCEPTION ]*
 
@@ -159,6 +199,12 @@ Status: ✓ ACTIVE
 </div>
 
 ---
+
+<div align="center">
+  
+![Domain Expansion](.github/assets/domain_expansion.svg)
+
+</div>
 
 ## **III. DOMAIN EXPANSION** `領域展開` *[ 無量空処 ]*
 

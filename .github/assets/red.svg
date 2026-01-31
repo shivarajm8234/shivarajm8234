@@ -1,0 +1,64 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="redGrad">
+      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#991B1B;stop-opacity:0.3" />
+    </radialGradient>
+    <filter id="redGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0a0a0a"/>
+  
+  <!-- Red sphere (repulsion) -->
+  <circle cx="400" cy="200" r="60" fill="url(#redGrad)" filter="url(#redGlow)">
+    <animate attributeName="r" values="60;90;60" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Expanding particles (repulsion) -->
+  <g>
+    <circle cx="400" cy="200" r="4" fill="#EF4444">
+      <animate attributeName="cx" values="400;200" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="200;100" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="200" r="4" fill="#EF4444">
+      <animate attributeName="cx" values="400;600" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="200;100" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="200" r="4" fill="#EF4444">
+      <animate attributeName="cx" values="400;200" dur="2s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="200;300" dur="2s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="200" r="4" fill="#EF4444">
+      <animate attributeName="cx" values="400;600" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="200;300" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Japanese character -->
+  <text x="400" y="220" font-family="serif" font-size="60" fill="#EF4444" text-anchor="middle" opacity="0.3" font-weight="bold">
+    赫
+  </text>
+  
+  <!-- Title -->
+  <text x="400" y="350" font-family="monospace" font-size="24" fill="#EF4444" text-anchor="middle" font-weight="bold">
+    赫 RED - DEPLOYMENT PIPELINE
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="380" font-family="monospace" font-size="14" fill="#F87171" text-anchor="middle">
+    GitHub Actions | Docker | Kubernetes | CI/CD
+  </text>
+</svg>
