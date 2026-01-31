@@ -1,13 +1,13 @@
 # <div align="center">L.</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Turning+code+into+clues.;Every+bug+solved+is+a+case+closed.;Domain+Expansion:+Unlimited+Information." alt="Typing SVG" />
+  <a href="https://shivarajm8234.github.io/shivarajm8234/">
+    <img src="https://img.shields.io/badge/ENTER_DOMAIN_EXPANSION-LIVE_PORTFOLIO-8a2be2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" alt="Live Portfolio" />
+  </a>
 </div>
 
 <div align="center">
-    <a href="https://shivarajm8234.github.io/shivarajm8234/">
-    <img src="https://img.shields.io/badge/ENTER_THE_VOID-LIVE_PORTFOLIO-8a2be2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=System+Online:+Infinite+Void;Reversing+Cursed+Energy...;Target:+Bugs+and+Inefficiency." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -15,11 +15,11 @@
 ## 01. The Honored One
 > *"Throughout Heaven and Earth, I alone am the honored one."*
 
-Like Gojo Satoru's **Six Eyes**, I analyze systems with unparalleled perception. My mind operates at the intersection of logic and creativity, turning abstract challenges into concrete AI-powered solutions. 
+My mind operates at the intersection of logic and creativity (Six Eyes), turning abstract challenges into concrete AI-powered solutions.
 
-- **🟦 Analytical**: Deep logical thinking (Six Eyes)
-- **🟪 Methodical**: Systematic approach (Limitless)
-- **⬛ Innovative**: AI-first solutions (Infinite Void)
+- **🟦 Analytical**: Deep logical thinking.
+- **🟪 Methodical**: Systematic approach.
+- **⬛ Innovative**: AI-first solutions.
 
 ---
 
@@ -41,12 +41,12 @@ Like Gojo Satoru's **Six Eyes**, I analyze systems with unparalleled perception.
 ## 03. Active Case Files
 
 ### 📂 Case #001: AI Marketing Automation Platform
-![Status](https://img.shields.io/badge/Status-Active_Investigation-success?style=flat-square)  
+![Status](https://img.shields.io/badge/Status-Active_Investigation-success?style=flat-square&color=8a2be2)  
 Intelligent automation system for social media, email campaigns, and job applications. Features predictive analytics and content optimization.  
 **Tools**: `Python` `Groq AI` `Flask` `React` `PostgreSQL`
 
 ### 📂 Case #002: Risk-Based Proctoring System
-![Status](https://img.shields.io/badge/Status-Case_Closed-critical?style=flat-square)  
+![Status](https://img.shields.io/badge/Status-Case_Closed-critical?style=flat-square&color=3b82f6)  
 Advanced behavioral analysis system for academic integrity monitoring. Uses ML to detect suspicious patterns.  
 **Tools**: `Python` `TensorFlow` `OpenCV` `Node.js` `MongoDB`
 
@@ -56,7 +56,7 @@ Computer vision application analyzing road conditions and traffic patterns for r
 **Tools**: `Python` `TensorFlow` `OpenCV` `React` `Firebase`
 
 ### 📂 Case #004: Procore Futuristic Landing (Freelance)
-![Status](https://img.shields.io/badge/Status-Case_Closed-8a2be2?style=flat-square)  
+![Status](https://img.shields.io/badge/Status-Case_Closed-8a2be2?style=flat-square&color=8a2be2)  
 High-performance, futuristic landing page with 3D elements and advanced animations.  
 **Link**: [Visit Site](https://procore-futuristic-landing.vercel.app/)  
 **Tools**: `React` `TailwindCSS` `Framer Motion`
@@ -73,7 +73,6 @@ High-performance, futuristic landing page with 3D elements and advanced animatio
 ---
 
 ## 05. Drop a Clue
-Have a complex problem that needs investigating? Ready to start your next AI-powered project?
 
 <div align="center">
   <a href="https://buymeacoffee.com/shivarajm">
