@@ -5,7 +5,7 @@ import Mindset from './components/Mindset';
 import Projects from './components/Projects';
 import Services from './components/Services';
 import Contact from './components/Contact';
-import gojoVideo from './assets/gojo_bg.mp4';
+import gojoTheme from './assets/gojo_theme.png';
 
 function App() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -27,17 +27,13 @@ function App() {
 
   return (
     <div className="bg-infinite-void min-h-screen w-full relative overflow-hidden text-white selection:bg-hollow-purple/30 selection:text-white">
-      {/* Gojo Background Theme - Video */}
-      <div className="fixed inset-0 z-0 opacity-30 pointer-events-none mix-blend-screen bg-black">
-          <video 
-            autoPlay 
-            loop 
-            muted 
-            playsInline
-            className="w-full h-full object-cover opacity-60"
-          >
-            <source src={gojoVideo} type="video/mp4" />
-          </video>
+      {/* Gojo Background Theme - Static Image */}
+      <div className="fixed inset-0 z-0 opacity-40 pointer-events-none mix-blend-screen bg-black">
+          <img 
+            src={gojoTheme} 
+            alt="Gojo Satoru Theme"
+            className="w-full h-full object-cover opacity-70"
+          />
           {/* Overlay to ensure text readability */}
           <div className="absolute inset-0 bg-infinite-void/90" />
       </div>
