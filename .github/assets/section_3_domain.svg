@@ -1,0 +1,96 @@
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a0f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="domainGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9F5AFD;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#1E1B4B;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow3">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="600" fill="url(#bgGrad3)"/>
+  
+  <!-- Border -->
+  <rect x="10" y="10" width="1180" height="580" fill="none" stroke="#9F5AFD" stroke-width="2" rx="10"/>
+  
+  <!-- Title -->
+  <text x="600" y="60" font-family="monospace" font-size="32" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
+    III. DOMAIN EXPANSION 領域展開 [ 無量空処 ]
+  </text>
+  
+  <!-- Expanding circles animation -->
+  <circle cx="600" cy="150" r="0" fill="none" stroke="#9F5AFD" stroke-width="2" filter="url(#glow3)">
+    <animate attributeName="r" values="0;120;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Japanese characters -->
+  <text x="600" y="160" font-family="serif" font-size="40" fill="#9F5AFD" text-anchor="middle" opacity="0.3" font-weight="bold">
+    領域展開
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="220" font-family="monospace" font-size="20" fill="#A78BFA" text-anchor="middle" font-weight="bold">
+    DATA-INTENSIVE & AI-DRIVEN APPLICATIONS
+  </text>
+  
+  <!-- Content Sections -->
+  <g>
+    <!-- Scalable Architecture -->
+    <rect x="50" y="260" width="350" height="280" fill="#1a1a2e" stroke="#9F5AFD" stroke-width="1" rx="5"/>
+    <text x="225" y="290" font-family="monospace" font-size="16" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
+      SCALABLE ARCHITECTURE
+    </text>
+    <text x="70" y="320" font-family="monospace" font-size="12" fill="#C0C0C0">
+      <tspan x="70" dy="0" font-weight="bold">Capability:</tspan>
+      <tspan x="70" dy="16">High-volume data, concurrent</tspan>
+      <tspan x="70" dy="16">users, real-time workflows</tspan>
+      <tspan x="70" dy="24" font-weight="bold">Stack:</tspan>
+      <tspan x="70" dy="16">• REST APIs</tspan>
+      <tspan x="70" dy="16">• Background Jobs</tspan>
+      <tspan x="70" dy="16">• Queues</tspan>
+      <tspan x="70" dy="16">• Modular Services</tspan>
+    </text>
+    
+    <!-- Reliability & Testing -->
+    <rect x="425" y="260" width="350" height="280" fill="#1a1a2e" stroke="#9F5AFD" stroke-width="1" rx="5"/>
+    <text x="600" y="290" font-family="monospace" font-size="16" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
+      RELIABILITY & TESTABILITY
+    </text>
+    <text x="445" y="320" font-family="monospace" font-size="12" fill="#C0C0C0">
+      <tspan x="445" dy="0" font-weight="bold">Capability:</tspan>
+      <tspan x="445" dy="16">Predictable execution and</tspan>
+      <tspan x="445" dy="16">system stability</tspan>
+      <tspan x="445" dy="24" font-weight="bold">Implementation:</tspan>
+      <tspan x="445" dy="16">• Validation</tspan>
+      <tspan x="445" dy="16">• Error Handling</tspan>
+      <tspan x="445" dy="16">• Unit Tests</tspan>
+      <tspan x="445" dy="16">• Integration Tests</tspan>
+    </text>
+    
+    <!-- Performance Engineering -->
+    <rect x="800" y="260" width="350" height="280" fill="#1a1a2e" stroke="#9F5AFD" stroke-width="1" rx="5"/>
+    <text x="975" y="290" font-family="monospace" font-size="16" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
+      PERFORMANCE ENGINEERING
+    </text>
+    <text x="820" y="320" font-family="monospace" font-size="12" fill="#C0C0C0">
+      <tspan x="820" dy="0" font-weight="bold">Capability:</tspan>
+      <tspan x="820" dy="16">Smooth UX even under load</tspan>
+      <tspan x="820" dy="24" font-weight="bold">Optimization:</tspan>
+      <tspan x="820" dy="16">• Efficient Queries</tspan>
+      <tspan x="820" dy="16">• Async Processing</tspan>
+      <tspan x="820" dy="16">• Lazy Loading</tspan>
+      <tspan x="820" dy="16">• Smart Rendering</tspan>
+    </text>
+  </g>
+</svg>

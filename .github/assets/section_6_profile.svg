@@ -1,0 +1,95 @@
+<svg width="1200" height="550" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a0f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="550" fill="url(#bgGrad6)"/>
+  
+  <!-- Border -->
+  <rect x="10" y="10" width="1180" height="530" fill="none" stroke="url(#goldGrad)" stroke-width="3" rx="10"/>
+  
+  <!-- Inner decorative border -->
+  <rect x="25" y="25" width="1150" height="500" fill="none" stroke="#F59E0B" stroke-width="1" stroke-dasharray="5,5" opacity="0.3" rx="8"/>
+  
+  <!-- Title -->
+  <text x="600" y="70" font-family="monospace" font-size="36" fill="#F59E0B" text-anchor="middle" font-weight="bold">
+    VI. SORCERER PROFILE 術師プロフィール
+  </text>
+  
+  <!-- Japanese characters background -->
+  <text x="600" y="140" font-family="serif" font-size="40" fill="#F59E0B" text-anchor="middle" opacity="0.15" font-weight="bold">
+    術師プロフィール
+  </text>
+  
+  <!-- Main Content Box -->
+  <rect x="100" y="120" width="1000" height="380" fill="#1a1a2e" stroke="#F59E0B" stroke-width="2" rx="8"/>
+  
+  <!-- Role -->
+  <text x="600" y="170" font-family="monospace" font-size="24" fill="#F59E0B" text-anchor="middle" font-weight="bold">
+    FULL STACK DEVELOPER & AI SYSTEMS ENGINEER
+  </text>
+  
+  <!-- Divider -->
+  <line x1="150" y1="190" x2="1050" y2="190" stroke="#F59E0B" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Focus Areas -->
+  <text x="150" y="230" font-family="monospace" font-size="18" fill="#F59E0B" font-weight="bold">
+    FOCUS AREAS:
+  </text>
+  <g>
+    <circle cx="170" cy="265" r="4" fill="#F59E0B"/>
+    <text x="190" y="270" font-family="monospace" font-size="15" fill="#C0C0C0">
+      AI Agents & Automation
+    </text>
+    
+    <circle cx="170" cy="295" r="4" fill="#F59E0B"/>
+    <text x="190" y="300" font-family="monospace" font-size="15" fill="#C0C0C0">
+      Scalable Web Applications
+    </text>
+    
+    <circle cx="650" cy="265" r="4" fill="#F59E0B"/>
+    <text x="670" y="270" font-family="monospace" font-size="15" fill="#C0C0C0">
+      Performance Optimization
+    </text>
+    
+    <circle cx="650" cy="295" r="4" fill="#F59E0B"/>
+    <text x="670" y="300" font-family="monospace" font-size="15" fill="#C0C0C0">
+      System Design & Architecture
+    </text>
+  </g>
+  
+  <!-- Working Style -->
+  <text x="150" y="345" font-family="monospace" font-size="18" fill="#F59E0B" font-weight="bold">
+    WORKING STYLE:
+  </text>
+  <text x="150" y="375" font-family="monospace" font-size="14" fill="#C0C0C0">
+    <tspan x="150" dy="0">High-discipline, low-noise, execution-first.</tspan>
+    <tspan x="150" dy="18">Prefers results over visibility.</tspan>
+  </text>
+  
+  <!-- Reputation -->
+  <text x="150" y="435" font-family="monospace" font-size="18" fill="#F59E0B" font-weight="bold">
+    REPUTATION:
+  </text>
+  <text x="150" y="465" font-family="monospace" font-size="14" fill="#C0C0C0">
+    <tspan x="150" dy="0">Solves complex, ambiguous technical problems that require</tspan>
+    <tspan x="150" dy="18">both creativity and precision.</tspan>
+  </text>
+  
+  <!-- Status Badge -->
+  <rect x="800" y="410" width="250" height="60" fill="#F59E0B" rx="5"/>
+  <text x="925" y="445" font-family="monospace" font-size="16" fill="#0a0a0f" text-anchor="middle" font-weight="bold">
+    STATUS:
+  </text>
+  <text x="925" y="465" font-family="monospace" font-size="14" fill="#0a0a0f" text-anchor="middle" font-weight="bold">
+    SPECIAL GRADE DEVELOPER
+  </text>
+</svg>
