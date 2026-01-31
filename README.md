@@ -86,8 +86,6 @@
 
 ## **『 DOMAIN EXPANSION: COMPLETE 』**
 
-
-
 <sub>**© 2026 Detective GOJO SATORU. | Special Grade Developer | All Systems Online**</sub>
 
 <sub>*"In the world of development, there are those who create, and those who dominate. I do both."*</sub>
