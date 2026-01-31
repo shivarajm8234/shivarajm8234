@@ -31,6 +31,14 @@
 
 <h2 align="center">01. THE HONORED ONE</h2>
 
+<div align="center" id="contact">
+  <a href="https://www.linkedin.com/in/mshivaraj/">LINKEDIN</a> • 
+  <a href="https://leetcode.com/u/shivarajm8234/">LEETCODE</a> • 
+  <a href="mailto:shivarajmani2005@gmail.com">EMAIL</a>
+</div>
+
+<br />
+
 <p align="center">
 <div align="center">
   <img src="portfolio/src/assets/gojo_theme.png" width="100%" height="auto" alt="Banner" style="border-radius: 4px;">
@@ -138,13 +146,6 @@ Solves complex, ambiguous technical problems that require both creativity and pr
 
 <hr />
 
-<div align="center" id="contact">
-  <a href="https://www.linkedin.com/in/mshivaraj/">LINKEDIN</a> • 
-  <a href="https://leetcode.com/u/shivarajm8234/">LEETCODE</a> • 
-  <a href="mailto:shivarajmani2005@gmail.com">EMAIL</a>
-</div>
-
 <div align="center">
-  <br />
   <small>© 2026 Detective L. All Systems Online.</small>
 </div>
