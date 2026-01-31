@@ -13,19 +13,23 @@
   <!-- Background -->
   <rect width="1200" height="900" fill="url(#bgGrad)"/>
   
-  <!-- Border -->
-  <rect x="20" y="20" width="1160" height="860" fill="none" stroke="url(#purpleGrad)" stroke-width="3" rx="15"/>
+  <!-- Border with animation -->
+  <rect x="20" y="20" width="1160" height="860" fill="none" stroke="url(#purpleGrad)" stroke-width="3" rx="15">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </rect>
   
   <!-- Title -->
   <text x="600" y="80" font-family="monospace" font-size="36" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
     I. INNATE TECHNIQUES [ LIMITLESS ] 術式
   </text>
   
-  <!-- Section 1: Infinity -->
+  <!-- Section 1: Infinity with animated symbol -->
   <g>
     <rect x="80" y="130" width="500" height="280" fill="#0f0f1a" stroke="#9F5AFD" stroke-width="2" rx="10"/>
     <path d="M 200 200 Q 260 160, 320 200 Q 380 240, 440 200 Q 380 160, 320 200 Q 260 240, 200 200" 
-          fill="none" stroke="#9F5AFD" stroke-width="3"/>
+          fill="none" stroke="#9F5AFD" stroke-width="3">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </path>
     <text x="320" y="260" font-family="monospace" font-size="22" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
       ∞ INFINITY 無下限
     </text>
@@ -39,10 +43,13 @@
     </text>
   </g>
   
-  <!-- Section 2: Blue -->
+  <!-- Section 2: Blue with pulsing circle -->
   <g>
     <rect x="620" y="130" width="500" height="280" fill="#0f0f1a" stroke="#60A5FA" stroke-width="2" rx="10"/>
-    <circle cx="870" cy="210" r="60" fill="#60A5FA" opacity="0.3"/>
+    <circle cx="870" cy="210" r="60" fill="#60A5FA" opacity="0.3">
+      <animate attributeName="r" values="55;65;55" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
     <text x="870" y="220" font-family="serif" font-size="50" fill="#60A5FA" text-anchor="middle" font-weight="bold">蒼</text>
     <text x="870" y="260" font-family="monospace" font-size="22" fill="#60A5FA" text-anchor="middle" font-weight="bold">
       BLUE 引力
@@ -57,10 +64,13 @@
     </text>
   </g>
   
-  <!-- Section 3: Red -->
+  <!-- Section 3: Red with pulsing circle -->
   <g>
     <rect x="80" y="450" width="500" height="280" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
-    <circle cx="330" cy="530" r="60" fill="#EF4444" opacity="0.3"/>
+    <circle cx="330" cy="530" r="60" fill="#EF4444" opacity="0.3">
+      <animate attributeName="r" values="55;65;55" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
     <text x="330" y="540" font-family="serif" font-size="50" fill="#EF4444" text-anchor="middle" font-weight="bold">赫</text>
     <text x="330" y="580" font-family="monospace" font-size="22" fill="#EF4444" text-anchor="middle" font-weight="bold">
       RED 斥力
@@ -75,11 +85,16 @@
     </text>
   </g>
   
-  <!-- Section 4: Hollow Purple -->
+  <!-- Section 4: Hollow Purple with animated rings -->
   <g>
     <rect x="620" y="450" width="500" height="280" fill="#0f0f1a" stroke="#9F5AFD" stroke-width="2" rx="10"/>
-    <circle cx="870" cy="540" r="70" fill="none" stroke="#9F5AFD" stroke-width="3"/>
-    <circle cx="870" cy="540" r="40" fill="#9F5AFD" opacity="0.3"/>
+    <circle cx="870" cy="540" r="70" fill="none" stroke="#9F5AFD" stroke-width="3">
+      <animate attributeName="r" values="65;75;65" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="870" cy="540" r="40" fill="#9F5AFD" opacity="0.3">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
     <text x="870" y="490" font-family="monospace" font-size="20" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
       虚式「茈」 HOLLOW PURPLE
     </text>
@@ -91,8 +106,9 @@
     </text>
   </g>
   
-  <!-- Footer -->
+  <!-- Footer with animation -->
   <text x="600" y="850" font-family="monospace" font-size="16" fill="#9F5AFD" text-anchor="middle" opacity="0.7">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
     LIMITLESS TECHNIQUE SYSTEM - FULLY OPERATIONAL
   </text>
 </svg>
