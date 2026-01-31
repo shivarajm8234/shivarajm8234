@@ -41,59 +41,100 @@
 
 ---
 
-<div align="center">
-
-## **『 CURSED TECHNIQUES & ABILITIES 』** `術式と能力`
-
-*Click each section to reveal the technique*
-
-</div>
-
----
-
-<details>
-<summary><h2>⚡ I. INNATE TECHNIQUES [ LIMITLESS ] 術式</h2></summary>
+## **I. INNATE TECHNIQUES** `[ LIMITLESS ]` `術式`
 
 <div align="center">
   
 ![Infinity](.github/assets/infinity.svg)
 
-### **∞ INFINITY** `無下限`
+</div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **∞ INFINITY** `無下限`
 ```yaml
 Classification: Defensive Architecture
-Technique: Infinite separation between sensitive data and threats
-Implementation: Multi-layer API security | JWT | OAuth2 | Rate limiting
+Technique: Infinite separation between
+           sensitive data and threats
+Implementation: Multi-layer API security
+                JWT | OAuth2 | Rate limiting
 Status: ✓ ACTIVE
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
+### **NEUTRAL LIMITLESS** `順転術式`
+```yaml
+Classification: Traffic Control
+Technique: Automatic threat interception
+           before system impact
+Implementation: Load balancing + filtering
+                Nginx | Redis | DDoS protection
+Status: ✓ ACTIVE
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
 ![Blue](.github/assets/blue.svg)
 
-### **蒼 BLUE** `引力`
+</div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **蒼 BLUE** `引力`
 ```yaml
 Classification: Data Aggregation
-Technique: Vacuum-pull disparate datasets into unified state
-Implementation: Multi-source integration | PostgreSQL | MongoDB | APIs
+Technique: Vacuum-pull disparate datasets
+           into unified state
+Implementation: Multi-source integration
+                PostgreSQL | MongoDB | APIs
 Status: ✓ ACTIVE
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
+<div align="center">
+  
 ![Red](.github/assets/red.svg)
 
-### **赫 RED** `斥力`
+</div>
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **赫 RED** `斥力`
 ```yaml
 Classification: Deployment Pipeline
-Technique: High-velocity push updates with overwhelming force
-Implementation: Automated CI/CD | GitHub Actions | Docker | K8s
+Technique: High-velocity push updates
+           with overwhelming force
+Implementation: Automated CI/CD
+                GitHub Actions | Docker | K8s
 Status: ✓ ACTIVE
 ```
 
----
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ![Hollow Purple](.github/assets/hollow_purple.svg)
 
@@ -108,136 +149,154 @@ Status: ✓ ACTIVE
 
 </div>
 
-</details>
-
 ---
-
-<details>
-<summary><h2>👁️ II. SIX EYES [ ANALYTICAL PERCEPTION ] 六眼</h2></summary>
 
 <div align="center">
   
 ![Six Eyes](.github/assets/six_eyes.svg)
 
-<br/>
+</div>
 
-**Deep Code Inspection**  
-Mentally trace logic flows, async behavior, API chains, and state transitions across frontend, backend, and AI services. Quickly identifies hidden dependencies, race conditions, and architectural bottlenecks.
+## **II. SIX EYES** `六眼` *[ ANALYTICAL PERCEPTION ]*
 
-**Algorithmic & Resource Efficiency**  
-Designs systems with optimal time and space complexity, prioritizing scalability, minimal API calls, caching strategies, and lightweight data structures to reduce compute and cost.
+<div align="center">
 
-**Clean Code & Maintainability**  
-Writes concise, modular, and readable code with clear abstractions. Follows separation of concerns, reusable components, and configuration-driven design to avoid technical debt.
-
-**Rapid Debugging & Root Cause Analysis**  
-Diagnoses issues across logs, network calls, databases, and client behavior. Fixes bugs by addressing root causes rather than surface symptoms.
+```
+┌─────────────────────────────────────────────────────────────┐
+│ CAPABILITY              │ IMPLEMENTATION                    │
+├─────────────────────────────────────────────────────────────┤
+│ DEEP CODE INSPECTION    │ Mentally trace logic flows,      │
+│                         │ async behavior, API chains, and   │
+│                         │ state transitions across stack.   │
+│                         │ Identifies race conditions and    │
+│                         │ architectural bottlenecks.        │
+├─────────────────────────────────────────────────────────────┤
+│ ALGORITHMIC EFFICIENCY  │ Optimal time/space complexity.    │
+│                         │ Minimal API calls, caching,       │
+│                         │ lightweight data structures.      │
+├─────────────────────────────────────────────────────────────┤
+│ CLEAN CODE PRINCIPLES   │ Modular, readable abstractions.   │
+│                         │ Separation of concerns, reusable  │
+│                         │ components, zero technical debt.  │
+├─────────────────────────────────────────────────────────────┤
+│ RAPID DEBUGGING         │ Root cause analysis across logs,  │
+│                         │ network calls, databases, and     │
+│                         │ client behavior.                  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-</details>
-
 ---
-
-<details>
-<summary><h2>🌀 III. DOMAIN EXPANSION [ UNLIMITED INFORMATION ] 領域展開</h2></summary>
 
 <div align="center">
   
 ![Domain Expansion](.github/assets/domain_expansion.svg)
 
-### **『 DATA-INTENSIVE & AI-DRIVEN APPLICATIONS 』** `無量空処`
-
-<br/>
-
 </div>
 
-**Scalable Architecture Design**  
-Builds systems capable of handling high-volume data, concurrent users, and real-time workflows using REST APIs, background jobs, queues, and modular services.
-
-**Reliability & Testability**  
-Implements validation, error handling, and unit/integration testing to ensure predictable execution and system stability.
-
-**Performance-Focused Engineering**  
-Optimizes latency through efficient queries, async processing, lazy loading, and smart frontend rendering—delivering smooth user experiences even under load.
-
-</details>
-
----
-
-<details>
-<summary><h2>🔄 IV. REVERSE CURSED TECHNIQUE [ ENERGY CONTROL ] 反転術式</h2></summary>
+## **III. DOMAIN EXPANSION** `領域展開` *[ 無量空処 ]*
 
 <div align="center">
 
-<br/>
-
-**Self-Healing & Fault Tolerance**  
-Designs systems with retries, graceful fallbacks, health checks, and automated recovery mechanisms to reduce downtime.
-
-**Continuous Skill Absorption**  
-Rapidly learns and applies new frameworks, APIs, AI models, and tools based on project needs rather than trends.
-
-**Deep Focus Execution**  
-Capable of long, uninterrupted development sessions with high cognitive load—maintaining accuracy, structure, and momentum.
+### **『 DATA-INTENSIVE & AI-DRIVEN APPLICATIONS 』**
 
 </div>
 
-</details>
+```typescript
+interface DomainExpansion {
+  scalableArchitecture: {
+    capability: "High-volume data, concurrent users, real-time workflows";
+    stack: ["REST APIs", "Background Jobs", "Queues", "Modular Services"];
+  };
+  
+  reliabilityAndTesting: {
+    capability: "Predictable execution and system stability";
+    implementation: ["Validation", "Error Handling", "Unit Tests", "Integration Tests"];
+  };
+  
+  performanceEngineering: {
+    capability: "Smooth UX even under load";
+    optimization: ["Efficient Queries", "Async Processing", "Lazy Loading", "Smart Rendering"];
+  };
+}
+```
 
 ---
 
-<details>
-<summary><h2>⚔️ V. COMBAT PROWESS [ TACTICAL DEVELOPMENT ] 戦闘能力</h2></summary>
+## **IV. REVERSE CURSED TECHNIQUE** `反転術式` *[ ENERGY CONTROL ]*
 
 <div align="center">
 
-<br/>
-
-**Rapid Prototyping & MVP Building**  
-Translates vague ideas into working prototypes quickly, validating concepts before scaling.
-
-**End-to-End System Design**  
-Handles the full lifecycle: requirements → architecture → development → deployment → optimization.
-
-**Mental Modeling Before Coding**  
-Breaks complex problems into data flow, components, and edge cases before writing code—reducing rework.
-
-**Project Ownership & Control**  
-Independently manages complex projects, balances trade-offs, and ships functional, production-ready systems.
+| TECHNIQUE | APPLICATION |
+|:---|:---|
+| **Self-Healing & Fault Tolerance** | Designs systems with retries, graceful fallbacks, health checks, and automated recovery mechanisms to reduce downtime. |
+| **Continuous Skill Absorption** | Rapidly learns and applies new frameworks, APIs, AI models, and tools based on project needs rather than trends. |
+| **Deep Focus Execution** | Capable of long, uninterrupted development sessions with high cognitive load—maintaining accuracy, structure, and momentum. |
 
 </div>
-
-</details>
 
 ---
 
-<details>
-<summary><h2>👤 VI. SORCERER PROFILE 術師プロフィール</h2></summary>
+## **V. COMBAT PROWESS** `戦闘能力` *[ TACTICAL DEVELOPMENT ]*
+
+```python
+class TacticalExecution:
+    def rapid_prototyping(self):
+        """Translates vague ideas into working prototypes quickly,
+        validating concepts before scaling."""
+        return "MVP in record time"
+    
+    def end_to_end_design(self):
+        """Handles full lifecycle:
+        requirements → architecture → development → deployment → optimization"""
+        return "Complete ownership"
+    
+    def mental_modeling(self):
+        """Breaks complex problems into data flow, components,
+        and edge cases before writing code—reducing rework."""
+        return "Think first, code second"
+    
+    def project_ownership(self):
+        """Independently manages complex projects, balances trade-offs,
+        and ships functional, production-ready systems."""
+        return "Autonomous execution"
+```
+
+---
+
+## **VI. SORCERER PROFILE** `術師プロフィール`
 
 <div align="center">
 
-<br/>
-
-**Role:** Full Stack Developer & AI Systems Engineer
-
-**Focus Areas:**
-- AI Agents & Automation
-- Scalable Web Applications
-- Performance Optimization
-- System Design & Architecture
-
-**Working Style:**  
-High-discipline, low-noise, execution-first. Prefers results over visibility.
-
-**Reputation:**  
-Solves complex, ambiguous technical problems that require both creativity and precision.
-
-**Status:** SPECIAL GRADE DEVELOPER
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║         FULL STACK DEVELOPER & AI SYSTEMS ENGINEER             ║
+║                                                                ║
+║  ┌──────────────────────────────────────────────────────────┐  ║
+║  │ FOCUS AREAS                                              │  ║
+║  ├──────────────────────────────────────────────────────────┤  ║
+║  │  • AI Agents & Automation                                │  ║
+║  │  • Scalable Web Applications                             │  ║
+║  │  • Performance Optimization                              │  ║
+║  │  • System Design & Architecture                          │  ║
+║  └──────────────────────────────────────────────────────────┘  ║
+║                                                                ║
+║  WORKING STYLE:                                                ║
+║    High-discipline, low-noise, execution-first.                ║
+║    Prefers results over visibility.                            ║
+║                                                                ║
+║  REPUTATION:                                                   ║
+║    Solves complex, ambiguous technical problems                ║
+║    that require both creativity and precision.                 ║
+║                                                                ║
+║  STATUS: SPECIAL GRADE DEVELOPER                               ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
 </div>
-
-</details>
 
 ---
 
