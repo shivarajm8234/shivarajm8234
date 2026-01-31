@@ -27,16 +27,14 @@ function App() {
 
   return (
     <div className="bg-infinite-void min-h-screen w-full relative overflow-hidden text-white selection:bg-hollow-purple/30 selection:text-white">
-      {/* Gojo Background Theme - Static Image */}
-      <div className="fixed inset-0 z-0 opacity-40 pointer-events-none mix-blend-screen bg-black">
-          <img 
-            src={gojoTheme} 
-            alt="Gojo Satoru Theme"
-            className="w-full h-full object-cover opacity-70"
-          />
-          {/* Overlay to ensure text readability */}
-          <div className="absolute inset-0 bg-infinite-void/90" />
-      </div>
+      {/* Gojo Background Theme - Fixed Background */}
+      <div 
+        className="fixed inset-0 z-0 pointer-events-none mix-blend-screen opacity-40 bg-no-repeat bg-cover bg-center bg-fixed"
+        style={{ backgroundImage: `url(${gojoTheme})` }}
+      />
+      
+      {/* Overlay to ensure text readability */}
+      <div className="fixed inset-0 z-0 bg-infinite-void/90 pointer-events-none" />
 
       {/* Dynamic Cursor Light Effect (Hollow Purple) */}
       <div 

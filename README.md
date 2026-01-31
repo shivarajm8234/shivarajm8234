@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="portfolio/src/assets/gojo_theme.png" width="100%" height="auto" alt="Banner" style="border-radius: 10px; opacity: 0.9;">
-</div>
+
 
 <div align="center">
   <table width="100%" style="margin-top: 10px;">
