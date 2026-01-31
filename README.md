@@ -48,6 +48,12 @@ Advanced behavioral analysis system for academic integrity monitoring. Uses ML t
 Computer vision application analyzing road conditions and traffic patterns for real-time infrastructure management.  
 **Tools**: Python, TensorFlow, OpenCV, React, Firebase
 
+### 📂 Case #004: Procore Futuristic Landing
+**Status**: `Case Closed`  
+Freelance Project. High-performance, futuristic landing page with 3D elements and advanced animations.  
+**Link**: [Visit Site](https://procore-futuristic-landing.vercel.app/)  
+**Tools**: React, TailwindCSS, Framer Motion
+
 ---
 
 ## 04. Investigation Statistics
@@ -60,6 +66,12 @@ Computer vision application analyzing road conditions and traffic patterns for r
 
 ## 05. Drop a Clue
 Have a complex problem that needs investigating? Ready to start your next AI-powered project?
+
+<div align="center">
+  <a href="https://buymeacoffee.com/shivarajm">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=shivarajm&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</div>
 
 > *"Justice will prevail, no matter what."*
 
