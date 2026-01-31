@@ -1,6 +1,8 @@
 # L.
 > *Turning code into clues. Every bug solved is a case closed.*
 
+**[🕵️ View Portfolio Access](https://shivarajm8234.github.io/shivarajm8234/)**
+
 ## 01. The Detective
 Like L's methodical approach to solving complex cases, I dissect intricate problems with analytical precision. My mind operates at the intersection of logic and creativity, turning abstract challenges into concrete AI-powered solutions.
 
