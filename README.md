@@ -1,8 +1,16 @@
 
+
+
+---
+
+<div align="center">
+
+### **『 THE HONORED ONE 』** `最強の術師`
+
+*"Throughout Heaven and Earth, I alone am the honored one."*
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=9F5AFD&center=true&vCenter=true&width=800&lines=DOMAIN+EXPANSION:+UNLIMITED+INFORMATION;SIX+EYES:+ANALYTICAL+PERCEPTION;LIMITLESS:+FULL+STACK+MASTERY" alt="Typing Animation" />
 </div>
-
 <br/>
 
 <div align="center">
@@ -13,13 +21,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-### **『 THE HONORED ONE 』** `最強の術師`
-
-*"Throughout Heaven and Earth, I alone am the honored one."*
 
 <br/>
 
