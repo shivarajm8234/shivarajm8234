@@ -5,6 +5,7 @@ import Mindset from './components/Mindset';
 import Projects from './components/Projects';
 import Services from './components/Services';
 import Contact from './components/Contact';
+import gojoVideo from './assets/gojo_bg.mp4';
 
 function App() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -35,9 +36,7 @@ function App() {
             playsInline
             className="w-full h-full object-cover opacity-60"
           >
-            <source src="/shivarajm8234/gojo_bg.mp4" type="video/mp4" />
-            {/* Fallback for dev environment which doesn't use base path */}
-            <source src="/gojo_bg.mp4" type="video/mp4" />
+            <source src={gojoVideo} type="video/mp4" />
           </video>
           {/* Overlay to ensure text readability */}
           <div className="absolute inset-0 bg-infinite-void/90" />
