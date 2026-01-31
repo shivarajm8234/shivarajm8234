@@ -1,21 +1,22 @@
 
 
+
 <div align="center">
   <table width="100%" style="margin-top: 10px;">
     <tr>
       <td align="center">
         <a href="https://shivarajm8234.github.io/shivarajm8234/">
-          <img src="https://img.shields.io/badge/🔮_ENTER_DOMAIN-LIVE_PORTFOLIO-8a2be2?style=for-the-badge&logo=vercel&logoColor=white&height=40" alt="Live Portfolio">
+          <img src="https://img.shields.io/badge/ENTER_DOMAIN-LIVE_PORTFOLIO-8a2be2?style=for-the-badge&logo=vercel&logoColor=white&height=40" alt="Live Portfolio">
         </a>
       </td>
       <td align="center">
-        <a href="#services">
-           <img src="https://img.shields.io/badge/Services-Available-3b82f6?style=for-the-badge&logo=codepen&logoColor=white&height=40" alt="Services">
+        <a href="#i-core-development-stack-innate-techniques">
+           <img src="https://img.shields.io/badge/TECHNIQUES-AVAILABLE-3b82f6?style=for-the-badge&logo=codepen&logoColor=white&height=40" alt="Techniques">
         </a>
       </td>
        <td align="center">
         <a href="#contact">
-           <img src="https://img.shields.io/badge/Contact-Drop_a_Clue-050505?style=for-the-badge&logo=gmail&logoColor=white&height=40" alt="Contact">
+           <img src="https://img.shields.io/badge/CONTACT-DROP_A_CLUE-050505?style=for-the-badge&logo=gmail&logoColor=white&height=40" alt="Contact">
         </a>
       </td>
     </tr>
@@ -28,7 +29,7 @@
 
 <hr />
 
-<h2 align="center">⚡ 01. THE HONORED ONE</h2>
+<h2 align="center">01. THE HONORED ONE</h2>
 
 <p align="center">
 <div align="center">
@@ -102,7 +103,7 @@
 
 <hr />
 
-<div align="center">
+<div align="center" id="contact">
   <a href="https://www.linkedin.com/in/mshivaraj/">LINKEDIN</a> • 
   <a href="https://leetcode.com/u/shivarajm8234/">LEETCODE</a> • 
   <a href="mailto:shivarajmani2005@gmail.com">EMAIL</a>
