@@ -17,7 +17,7 @@
   
 [![ENTER DOMAIN](https://img.shields.io/badge/ENTER_DOMAIN-LIVE_SYSTEM-9F5AFD?style=for-the-badge&labelColor=000000&logo=vercel)](https://shivarajm8234.github.io/shivarajm8234/)
 [![TECHNIQUES](https://img.shields.io/badge/CURSED_TECHNIQUES-ACTIVE-60A5FA?style=for-the-badge&labelColor=000000&logo=codepen)](#i-innate-techniques--limitless-)
-[![CONTACT](https://img.shields.io/badge/ESTABLISH_CONNECTION-AVAILABLE-FFFFFF?style=for-the-badge&labelColor=000000&logo=gmail)](#contact)
+[![CONTACT](https://img.shields.io/badge/ESTABLISH_CONNECTION-AVAILABLE-FFFFFF?style=for-the-badge&labelColor=000000&logo=gmail)](mailto:shivarajmani2005@gmail.com)
 
 </div>
 
