@@ -7,9 +7,9 @@ const StatCard = ({ label, value, delay }) => (
     whileInView={{ opacity: 1, y: 0 }}
     transition={{ delay, duration: 0.5 }}
     viewport={{ once: true }}
-    className="bg-white/5 border border-white/10 p-6 backdrop-blur-sm"
+    className="bg-white/5 border border-white/10 p-6 backdrop-blur-sm hover:border-six-eyes/50 transition-colors duration-300"
   >
-    <h3 className="text-white/40 text-xs uppercase tracking-widest mb-2">{label}</h3>
+    <h3 className="text-six-eyes text-xs uppercase tracking-widest mb-2">{label}</h3>
     <p className="text-2xl text-white font-mono">{value}</p>
   </motion.div>
 );
@@ -58,7 +58,7 @@ const Mindset = () => {
               >
                 <div className="flex justify-between mb-2">
                   <span className="text-gray-300 font-mono text-sm">{skill.name}</span>
-                  <span className="text-neon-cyan/80 font-mono text-xs">{skill.level}%</span>
+                  <span className="text-six-eyes/80 font-mono text-xs">{skill.level}%</span>
                 </div>
                 <div className="h-1 w-full bg-white/5 overflow-hidden">
                   <motion.div 
@@ -66,7 +66,7 @@ const Mindset = () => {
                     whileInView={{ width: `${skill.level}%` }}
                     transition={{ duration: 1, delay: 0.5 }}
                     viewport={{ once: true }}
-                    className="h-full bg-neon-blue group-hover:bg-neon-cyan transition-colors duration-300"
+                    className="h-full bg-six-eyes group-hover:bg-hollow-purple transition-colors duration-300"
                   />
                 </div>
               </motion.div>

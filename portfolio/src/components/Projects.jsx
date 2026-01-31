@@ -7,17 +7,17 @@ const CaseCard = ({ project, index }) => {
     <motion.div
       initial={{ opacity: 0, y: 30 }}
       whileInView={{ opacity: 1, y: 0 }}
-      transition={{ delay: index * 0.2 }}
+      transition={{ delay: index * 0.1 }}
       viewport={{ once: true }}
-      className="group relative p-8 glass-card hover:bg-white/5 transition-all duration-500 border-l-2 border-transparent hover:border-neon-cyan h-full"
+      className="group relative p-8 glass-card hover:bg-white/5 transition-all duration-500 border-l-2 border-transparent hover:border-hollow-purple h-full flex flex-col"
     >
-      <div className="absolute top-8 right-8 text-white/20 group-hover:text-neon-cyan transition-colors">
+      <div className="absolute top-8 right-8 text-white/20 group-hover:text-hollow-purple transition-colors">
         <ArrowUpRight size={20} />
       </div>
 
-      <div className="text-neon-blue font-mono text-xs mb-4 tracking-wider">CASE #{project.id}</div>
+      <div className="text-six-eyes font-mono text-xs mb-4 tracking-wider uppercase">Case #{project.id}</div>
       
-      <h3 className="text-2xl font-bold text-white mb-3 group-hover:text-neon-cyan transition-colors duration-300">
+      <h3 className="text-2xl font-bold text-white mb-3 group-hover:text-hollow-purple transition-colors duration-300">
         {project.title}
       </h3>
       
@@ -25,19 +25,31 @@ const CaseCard = ({ project, index }) => {
         <span className={`text-xs px-2 py-1 rounded-sm border ${
           project.status.includes("Active") ? "border-green-500/30 text-green-400" : 
           project.status.includes("Closed") ? "border-red-500/30 text-red-400" : 
-          "border-yellow-500/30 text-yellow-400"
+          project.status.includes("Ongoing") ? "border-yellow-500/30 text-yellow-400" :
+          "border-blue-500/30 text-blue-400"
         }`}>
           {project.status.toUpperCase()}
         </span>
       </div>
 
-      <p className="text-gray-400 text-sm leading-relaxed mb-8 max-w-sm">
+      <p className="text-gray-400 text-sm leading-relaxed mb-6 flex-grow">
         {project.description}
       </p>
 
-      <div className="flex gap-3 flex-wrap">
+      {project.evidence && (
+         <div className="mb-6 space-y-1">
+            <p className="text-xs text-six-eyes/60 font-mono tracking-wider uppercase mb-2">Key Evidence:</p>
+            {project.evidence.map((e, i) => (
+               <div key={i} className="flex items-center gap-2 text-xs text-gray-500">
+                  <span className="w-1 h-1 bg-white/20 rounded-full"/> {e}
+               </div>
+            ))}
+         </div>
+      )}
+
+      <div className="flex gap-2 flex-wrap mt-auto pt-6 border-t border-white/5">
         {project.tech.map((t) => (
-          <span key={t} className="text-xs text-white/50 font-mono">
+          <span key={t} className="text-[10px] text-white/40 font-mono border border-white/5 px-2 py-1 rounded">
             {t}
           </span>
         ))}

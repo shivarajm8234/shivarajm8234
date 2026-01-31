@@ -2,15 +2,28 @@
 
 @theme {
   --color-detective-black: #050505;
-  --color-detective-blue: #0a0f1c;
-  --color-neon-cyan: #00f7ff;
-  --color-neon-blue: #2563eb;
-  --color-glass-white: rgba(255, 255, 255, 0.05);
+  --color-infinite-void: #020005;
+  --color-hollow-purple: #8a2be2;
+  --color-six-eyes: #3b82f6; 
+  --color-cursed-red: #ef4444;
+  --color-glass-dark: rgba(20, 0, 30, 0.6);
 
   --font-mono: "JetBrains Mono", monospace;
   --font-sans: "Inter", sans-serif;
 
   --animate-pulse-slow: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-domain-expansion: domain 1.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+
+  @keyframes domain {
+    0% { transform: scale(0.8); opacity: 0; filter: blur(10px); }
+    100% { transform: scale(1); opacity: 1; filter: blur(0); }
+  }
 }
 
 :root {
@@ -23,6 +36,7 @@ body {
   margin: 0;
   overflow-x: hidden;
   cursor: crosshair;
+  background: var(--color-infinite-void);
 }
 
 ::-webkit-scrollbar {
@@ -30,32 +44,32 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #0a0a0a; 
+  background: #020005; 
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--color-neon-blue); 
+  background: var(--color-hollow-purple); 
   border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--color-neon-cyan); 
+  background: var(--color-six-eyes); 
 }
 
 .glass-card {
-  background: rgba(10, 15, 28, 0.6);
-  backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.05);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  background: var(--color-glass-dark);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(138, 43, 226, 0.1); /* Hollow Purple tint */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
 }
 
 .text-glow {
-  text-shadow: 0 0 10px rgba(0, 247, 255, 0.3);
+  text-shadow: 0 0 10px rgba(59, 130, 246, 0.5); /* Six Eyes Glow */
 }
 
 .grid-bg {
-  background-size: 40px 40px;
+  background-size: 60px 60px;
   background-image:
-    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+    linear-gradient(to right, rgba(138, 43, 226, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(138, 43, 226, 0.05) 1px, transparent 1px);
 }

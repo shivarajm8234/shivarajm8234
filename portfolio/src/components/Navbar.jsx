@@ -9,14 +9,14 @@ const Navbar = () => {
       className="fixed top-0 left-0 w-full px-8 py-6 flex justify-between items-center z-50 mix-blend-difference"
     >
       <div className="text-2xl font-bold tracking-tighter text-white font-mono">
-        L.
+      Gojo Satoru.
       </div>
-      <div className="flex gap-8 text-sm font-medium text-gray-400">
-        {["Mindset", "Cases", "Contact"].map((item) => (
+      <div className="hidden md:flex gap-8 text-sm font-medium text-gray-400">
+        {["Mindset", "Cases", "Services", "Contact"].map((item) => (
           <a 
             key={item} 
             href={`#${item.toLowerCase()}`}
-            className="hover:text-white transition-colors duration-300 uppercase tracking-widest text-xs"
+            className="hover:text-six-eyes transition-colors duration-300 uppercase tracking-widest text-xs"
           >
             {item}
           </a>

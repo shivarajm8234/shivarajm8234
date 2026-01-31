@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Mindset from './components/Mindset';
 import Projects from './components/Projects';
+import Services from './components/Services';
 import Contact from './components/Contact';
 
 function App() {
@@ -24,12 +25,21 @@ function App() {
   }, []);
 
   return (
-    <div className="bg-detective-black min-h-screen w-full relative overflow-hidden text-white selection:bg-neon-cyan/30 selection:text-neon-cyan">
-      {/* Dynamic Cursor Light Effect */}
+    <div className="bg-infinite-void min-h-screen w-full relative overflow-hidden text-white selection:bg-hollow-purple/30 selection:text-white">
+      {/* Gojo Background Theme */}
+      <div className="fixed inset-0 z-0 opacity-20 pointer-events-none mix-blend-screen">
+          <img 
+            src="https://wallpapers.com/images/hd/gojo-satoru-4k-dark-blue-eyes-2y42q208g0099450.jpg" 
+            alt="Gojo Theme" 
+            className="w-full h-full object-cover"
+          />
+      </div>
+
+      {/* Dynamic Cursor Light Effect (Hollow Purple) */}
       <div 
-        className="pointer-events-none fixed inset-0 z-0 transition-opacity opacity-40 via-transparent to-transparent bg-gradient-radial from-neon-blue/20"
+        className="pointer-events-none fixed inset-0 z-0 transition-opacity opacity-30 via-transparent to-transparent bg-gradient-radial from-hollow-purple/20"
         style={{
-          background: `radial-gradient(600px circle at ${mousePosition.x}px ${mousePosition.y}px, rgba(37, 99, 235, 0.06), transparent 40%)`
+          background: `radial-gradient(600px circle at ${mousePosition.x}px ${mousePosition.y}px, rgba(138, 43, 226, 0.08), transparent 40%)`
         }}
       />
       
@@ -37,7 +47,8 @@ function App() {
         <Navbar />
         <Hero />
         <Mindset />
-        <Projects />
+        <div id="cases"><Projects /></div>
+        <div id="services"><Services /></div>
         <Contact />
       </div>
     </div>
