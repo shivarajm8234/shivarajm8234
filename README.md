@@ -96,16 +96,16 @@ Erases technical debt at atomic level
 
 ---
 
-## **II. SIX EYES** `六眼`
+## **II. SIX EYES** `六眼` *[ SIX-EYE LEVEL ANALYSIS ]*
 
 <div align="center">
 
 | CAPABILITY | IMPLEMENTATION |
 |:---:|:---|
-| **PERCEPTION** | Microscopic visualization of logic flows and dependency graphs |
-| **EFFICIENCY** | Near-zero resource consumption through `O(1)` and `O(log n)` optimizations |
-| **PRECISION** | Absolute energy efficiency - no wasted lines of code |
-| **ANALYSIS** | Instant identification and resolution of system anomalies |
+| **PERCEPTION** | Mentally trace logic flows, async behavior, API chains, and state transitions across frontend, backend, and AI services. Quickly identifies hidden dependencies, race conditions, and architectural bottlenecks. |
+| **EFFICIENCY** | Designs systems with optimal time and space complexity, prioritizing scalability, minimal API calls, caching strategies, and lightweight data structures to reduce compute and cost. |
+| **PRECISION** | Writes concise, modular, and readable code with clear abstractions. Follows separation of concerns, reusable components, and configuration-driven design to avoid technical debt. |
+| **ANALYSIS** | Diagnoses issues across logs, network calls, databases, and client behavior. Fixes bugs by addressing root causes rather than surface symptoms. |
 
 </div>
 
@@ -115,64 +115,77 @@ Erases technical debt at atomic level
 
 <div align="center">
 
-### **『 UNLIMITED INFORMATION 』** `無量空処`
+### **『 DATA-INTENSIVE & AI-DRIVEN APPLICATIONS 』** `無量空処`
 
 </div>
 
 ```diff
-+ OVERWHELMING SCALE
-  Architectures handling infinite data streams without latency
++ SCALABLE ARCHITECTURE DESIGN
+  Builds systems capable of handling high-volume data, concurrent users, 
+  and real-time workflows using REST APIs, background jobs, queues, and modular services.
 
-+ GUARANTEED EXECUTION  
-  Unit & Integration testing ensuring 100% hit rate
++ RELIABILITY & TESTABILITY  
+  Implements validation, error handling, and unit/integration testing 
+  to ensure predictable execution and system stability.
 
-+ HIGH PERFORMANCE
-  Latency reduced to 0.2s for seamless UX
++ PERFORMANCE-FOCUSED ENGINEERING
+  Optimizes latency through efficient queries, async processing, lazy loading, 
+  and smart frontend rendering—delivering smooth UX even under load.
 ```
 
 ---
 
-## **IV. REVERSE CURSED TECHNIQUE** `反転術式`
+## **IV. REVERSE CURSED TECHNIQUE** `反転術式` *[ ENERGY CONTROL ]*
 
 <div align="center">
 
 | TECHNIQUE | APPLICATION |
 |:---:|:---|
-| **SELF-HEALING** | Automated restart scripts & error-handling routines |
-| **CONTINUOUS REGENERATION** | Constant absorption of new frameworks without fatigue |
-| **PEAK CONDITION** | Deep focus maintenance for extended coding sessions |
+| **SELF-HEALING & FAULT TOLERANCE** | Designs systems with retries, graceful fallbacks, health checks, and automated recovery mechanisms to reduce downtime. |
+| **CONTINUOUS SKILL ABSORPTION** | Rapidly learns and applies new frameworks, APIs, AI models, and tools based on project needs rather than trends. |
+| **DEEP FOCUS EXECUTION** | Capable of long, uninterrupted development sessions with high cognitive load—maintaining accuracy, structure, and momentum. |
 
 </div>
 
 ---
 
-## **V. COMBAT PROWESS** `戦闘能力`
+## **V. COMBAT PROWESS** `戦闘能力` *[ TACTICAL DEVELOPMENT ]*
 
 ```typescript
-interface CombatAbilities {
-  rapidPrototyping: "Outpaces standard development cycles";
-  systemDesign: "Genius-level architectural planning";
-  mentalModeling: "Problem deconstruction before execution";
-  projectDominance: "Full lifecycle control from requirements to deployment";
+interface TacticalExecution {
+  rapidPrototyping: "Translates vague ideas into working prototypes quickly, validating concepts before scaling";
+  endToEndDesign: "Handles full lifecycle: requirements → architecture → development → deployment → optimization";
+  mentalModeling: "Breaks complex problems into data flow, components, and edge cases before writing code—reducing rework";
+  projectOwnership: "Independently manages complex projects, balances trade-offs, and ships production-ready systems";
 }
 ```
 
 ---
 
-## **VI. SORCERER GRADE** `術師等級`
+## **VI. SORCERER PROFILE** `術師プロフィール`
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║              SPECIAL GRADE DEVELOPER                   ║
-║                                                        ║
-║  Role: Senior Full Stack Developer & AI Architect      ║
-║  Specialization: Limitless Creativity + Six Eyes       ║
-║  Status: Solves challenges standard devs cannot        ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║         FULL STACK DEVELOPER & AI SYSTEMS ENGINEER             ║
+║                                                                ║
+║  Focus Areas:                                                  ║
+║    • AI Agents & Automation                                    ║
+║    • Scalable Web Applications                                 ║
+║    • Performance Optimization                                   ║
+║    • System Design & Architecture                              ║
+║                                                                ║
+║  Working Style:                                                ║
+║    High-discipline, low-noise, execution-first.                ║
+║    Prefers results over visibility.                            ║
+║                                                                ║
+║  Reputation:                                                   ║
+║    Solves complex, ambiguous technical problems                ║
+║    that require both creativity and precision.                 ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
