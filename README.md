@@ -97,22 +97,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-### **CONTACT PROTOCOL** `連絡`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://www.linkedin.com/in/shivaraj-m-a7a3b3251/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-SOLVE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050505)](https://leetcode.com/u/shivarajm8234/)
-[![Email](https://img.shields.io/badge/Email-TRANSMIT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:shivarajm8234@gmail.com)
-
----
-
-```diff
-! DOMAIN STATUS: ACTIVE
-+ All Techniques: OPERATIONAL
-+ Six Eyes: MONITORING
-+ Infinity: PROTECTING
-```
-
-<sub>**© 2026 Detective L. | Special Grade Developer | All Systems Online**</sub>
+<sub>**© 2026 Detective GOJO SATORU. | Special Grade Developer | All Systems Online**</sub>
 
 <sub>*"In the world of development, there are those who create, and those who dominate. I do both."*</sub>
 
