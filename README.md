@@ -60,46 +60,81 @@
 
 <br />
 
-## II. ANALYTICAL CAPABILITIES (SIX EYES)
+## II. ANALYTICAL CAPABILITIES (SIX-EYE LEVEL ANALYSIS)
 
-*   **Deep Code Inspection**: Ability to visualize logic flows and dependency graphs in microscopic detail.
-*   **Algorithmic Efficiency**: Near-zero resource consumption through O(1) or O(log n) optimizations.
-*   **Clean Code Principles**: No wasted lines; absolute energy efficiency in syntax and structure.
-*   **Rapid Debugging**: Instant identification and resolution of system anomalies and bugs.
+**Deep Code Inspection**  
+Ability to mentally trace logic flows, async behavior, API chains, and state transitions across frontend, backend, and AI services. Quickly identifies hidden dependencies, race conditions, and architectural bottlenecks.
+
+**Algorithmic & Resource Efficiency**  
+Designs systems with optimal time and space complexity, prioritizing scalability, minimal API calls, caching strategies, and lightweight data structures to reduce compute and cost.
+
+**Clean Code & Maintainability**  
+Writes concise, modular, and readable code with clear abstractions. Follows separation of concerns, reusable components, and configuration-driven design to avoid technical debt.
+
+**Rapid Debugging & Root Cause Analysis**  
+Diagnoses issues across logs, network calls, databases, and client behavior. Fixes bugs by addressing root causes rather than surface symptoms.
 
 <br />
 
 ## III. SYSTEM ARCHITECTURE (DOMAIN EXPANSION)
 
-**Domain: Unlimited Information**
-*   **Overwhelming Scale**: Architectures designed to handle infinite data streams without latency.
-*   **Guaranteed Execution**: Unit and Integration testing suites ensure functions cannot miss their targets.
-*   **High Performance**: Latency reduced to 0.2s, creating a seamless user experience.
+**Domain: Data-Intensive & AI-Driven Applications**
+
+**Scalable Architecture Design**  
+Builds systems capable of handling high-volume data, concurrent users, and real-time workflows using REST APIs, background jobs, queues, and modular services.
+
+**Reliability & Testability**  
+Implements validation, error handling, and unit/integration testing to ensure predictable execution and system stability.
+
+**Performance-Focused Engineering**  
+Optimizes latency through efficient queries, async processing, lazy loading, and smart frontend rendering—delivering smooth user experiences even under load.
 
 <br />
 
 ## IV. WORKFLOW OPTIMIZATION (ENERGY CONTROL)
 
-*   **Self-Healing Systems**: Automated restart scripts and error-handling routines (Reverse Cursed Technique).
-*   **Continuous Learning**: Constant absorption of new frameworks and languages without fatigue.
-*   **Peak Performance**: Ability to maintain deep focus for extended coding sessions.
+**Self-Healing & Fault Tolerance**  
+Designs systems with retries, graceful fallbacks, health checks, and automated recovery mechanisms to reduce downtime.
+
+**Continuous Skill Absorption**  
+Rapidly learns and applies new frameworks, APIs, AI models, and tools based on project needs rather than trends.
+
+**Deep Focus Execution**  
+Capable of long, uninterrupted development sessions with high cognitive load—maintaining accuracy, structure, and momentum.
 
 <br />
 
-## V. STRATEGIC EXECUTION (COMBAT & TACTICAL)
+## V. STRATEGIC EXECUTION (TACTICAL DEVELOPMENT)
 
-*   **Rapid Prototyping**: Effortlessly outpaces standard development cycles.
-*   **System Design**: Genius-level architectural planning and component improvisation.
-*   **Mental Modeling**: Deconstructing complex problems before writing a single line of code.
-*   **Project Dominance**: Controlling the development lifecycle from requirements to deployment.
+**Rapid Prototyping & MVP Building**  
+Translates vague ideas into working prototypes quickly, validating concepts before scaling.
+
+**End-to-End System Design**  
+Handles the full lifecycle: requirements → architecture → development → deployment → optimization.
+
+**Mental Modeling Before Coding**  
+Breaks complex problems into data flow, components, and edge cases before writing code—reducing rework.
+
+**Project Ownership & Control**  
+Independently manages complex projects, balances trade-offs, and ships functional, production-ready systems.
 
 <br />
 
-## VI. PROFESSIONAL STATUS
+## VI. PROFESSIONAL PROFILE
 
-*   **Role**: Senior Full Stack Developer & AI Architect
-*   **Specialization**: A unique combination of Limitless Creativity and Analytical Precision.
-*   **Status**: Solves "Special Grade" technical challenges standard developers cannot handle.
+**Role:** Full Stack Developer & AI Systems Engineer
+
+**Focus Areas:**
+- AI Agents & Automation
+- Scalable Web Applications
+- Performance Optimization
+- System Design & Architecture
+
+**Working Style:**  
+High-discipline, low-noise, execution-first. Prefers results over visibility.
+
+**Reputation:**  
+Solves complex, ambiguous technical problems that require both creativity and precision.
 
 <hr />
 
