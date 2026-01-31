@@ -1,29 +1,31 @@
-# <div align="center">L.</div>
+# <div align="center"> &lt;L /&gt; </div>
 
 <div align="center">
   <a href="https://shivarajm8234.github.io/shivarajm8234/">
-    <img src="https://img.shields.io/badge/ENTER_DOMAIN_EXPANSION-LIVE_PORTFOLIO-8a2be2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/return_to_-LIVE_PORTFOLIO-8a2be2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" alt="Live Portfolio" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=System+Online:+Infinite+Void;Reversing+Cursed+Energy...;Target:+Bugs+and+Inefficiency." alt="Typing SVG" />
 </div>
 
 <br/>
 
-## 01. The Honored One
-> *"Throughout Heaven and Earth, I alone am the honored one."*
+```jsx
+import { Analytics, Innovation, Logic } from '@jujutsu/sorcery';
+import { Detective } from './Roles';
 
-My mind operates at the intersection of logic and creativity (Six Eyes), turning abstract challenges into concrete AI-powered solutions.
+// "Throughout Heaven and Earth, I alone am the honored one."
+```
 
-- **🟦 Analytical**: Deep logical thinking.
-- **🟪 Methodical**: Systematic approach.
-- **⬛ Innovative**: AI-first solutions.
+## `01. <HonoredOne />`
+
+My mind operates at the intersection of logic and creativity **(Six Eyes)**, turning abstract challenges into concrete AI-powered solutions.
+
+- 🟦 **`<Analytical />`**: Deep logical thinking.
+- 🟪 **`<Methodical />`**: Systematic approach.
+- ⬛ **`<Innovative />`**: AI-first solutions.
 
 ---
 
-## 02. Cursed Techniques (Toolkit)
+## `02. <CursedTechniques />`
 
 <div align="center">
 
@@ -38,41 +40,52 @@ My mind operates at the intersection of logic and creativity (Six Eyes), turning
 
 <br/>
 
-## 03. Active Case Files
+## `03. <DomainExpansion type="CaseFiles" />`
 
-### 📂 Case #001: AI Marketing Automation Platform
-![Status](https://img.shields.io/badge/Status-Active_Investigation-success?style=flat-square&color=8a2be2)  
-Intelligent automation system for social media, email campaigns, and job applications. Features predictive analytics and content optimization.  
-**Tools**: `Python` `Groq AI` `Flask` `React` `PostgreSQL`
+### 📂 `<Case id="001" status="Active">`
+  **AI Marketing Automation Platform**  
+  ![Status](https://img.shields.io/badge/Status-Active_Investigation-success?style=flat-square&color=8a2be2)  
+  *Intelligent automation system for social media, predictive analytics, and optimization.*  
+  `tools={['Python', 'Groq AI', 'Flask', 'React', 'PostgreSQL']}`
+### `</Case>`
 
-### 📂 Case #002: Risk-Based Proctoring System
-![Status](https://img.shields.io/badge/Status-Case_Closed-critical?style=flat-square&color=3b82f6)  
-Advanced behavioral analysis system for academic integrity monitoring. Uses ML to detect suspicious patterns.  
-**Tools**: `Python` `TensorFlow` `OpenCV` `Node.js` `MongoDB`
+### 📂 `<Case id="002" status="Closed">`
+  **Risk-Based Proctoring System**  
+  ![Status](https://img.shields.io/badge/Status-Case_Closed-critical?style=flat-square&color=3b82f6)  
+  *Advanced behavioral analysis ML system for academic integrity.*  
+  `tools={['Python', 'TensorFlow', 'OpenCV', 'Node.js']}`
+### `</Case>`
 
-### 📂 Case #003: CNN Road Condition Analyzer
-![Status](https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square)  
-Computer vision application analyzing road conditions and traffic patterns for real-time infrastructure management.  
-**Tools**: `Python` `TensorFlow` `OpenCV` `React` `Firebase`
+### 📂 `<Case id="003" status="Ongoing">`
+  **CNN Road Condition Analyzer**  
+  ![Status](https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square)  
+  *Computer vision application analyzing real-time infrastructure.*  
+  `tools={['Python', 'TensorFlow', 'OpenCV', 'React']}`
+### `</Case>`
 
-### 📂 Case #004: Procore Futuristic Landing (Freelance)
-![Status](https://img.shields.io/badge/Status-Case_Closed-8a2be2?style=flat-square&color=8a2be2)  
-High-performance, futuristic landing page with 3D elements and advanced animations.  
-**Link**: [Visit Site](https://procore-futuristic-landing.vercel.app/)  
-**Tools**: `React` `TailwindCSS` `Framer Motion`
+### 📂 `<Case id="004" type="Freelance">`
+  **Procore Futuristic Landing**  
+  ![Status](https://img.shields.io/badge/Status-Case_Closed-8a2be2?style=flat-square&color=8a2be2)  
+  *High-performance 3D landing page.*  
+  [Visit Site](https://procore-futuristic-landing.vercel.app/)  
+  `tools={['React', 'TailwindCSS', 'Framer Motion']}`
+### `</Case>`
 
 ---
 
-## 04. Investigation Services
-
-*   **AI + Automation Development**: Custom AI workflows and intelligent automation systems.
-*   **Full-Stack Web Solutions**: End-to-end web applications with modern tech stacks.
-*   **Resume Building & Optimization**: AI-analyzed resume optimization with ATS compatibility.
-*   **Bug Detection & Fixing**: Systematic debugging and code optimization.
+## `04. <Services />`
+```json
+[
+  "AI + Automation Development",
+  "Full-Stack Web Solutions", 
+  "Resume Building & Optimization",
+  "Bug Detection & Fixing"
+]
+```
 
 ---
 
-## 05. Drop a Clue
+## `05. <Contact />`
 
 <div align="center">
   <a href="https://buymeacoffee.com/shivarajm">
@@ -94,8 +107,9 @@ High-performance, futuristic landing page with 3D elements and advanced animatio
   </a>
 </div>
 
-<br/>
-
 <div align="center">
+  <br />
+  <code>export default DetectiveL;</code>
+  <br />
   <sub>© 2026 Detective L. | <b>Domain: Unlimited Information</b></sub>
 </div>
