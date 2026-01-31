@@ -8,13 +8,6 @@
       <stop offset="0%" style="stop-color:#9F5AFD;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#60A5FA;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
   
   <!-- Background -->
@@ -32,9 +25,7 @@
   <g>
     <rect x="80" y="130" width="500" height="280" fill="#0f0f1a" stroke="#9F5AFD" stroke-width="2" rx="10"/>
     <path d="M 200 200 Q 260 160, 320 200 Q 380 240, 440 200 Q 380 160, 320 200 Q 260 240, 200 200" 
-          fill="none" stroke="#9F5AFD" stroke-width="3" filter="url(#glow)">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
-    </path>
+          fill="none" stroke="#9F5AFD" stroke-width="3"/>
     <text x="320" y="260" font-family="monospace" font-size="22" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
       ∞ INFINITY 無下限
     </text>
@@ -51,9 +42,7 @@
   <!-- Section 2: Blue -->
   <g>
     <rect x="620" y="130" width="500" height="280" fill="#0f0f1a" stroke="#60A5FA" stroke-width="2" rx="10"/>
-    <circle cx="870" cy="210" r="60" fill="#60A5FA" opacity="0.3" filter="url(#glow)">
-      <animate attributeName="r" values="60;75;60" dur="3s" repeatCount="indefinite"/>
-    </circle>
+    <circle cx="870" cy="210" r="60" fill="#60A5FA" opacity="0.3"/>
     <text x="870" y="220" font-family="serif" font-size="50" fill="#60A5FA" text-anchor="middle" font-weight="bold">蒼</text>
     <text x="870" y="260" font-family="monospace" font-size="22" fill="#60A5FA" text-anchor="middle" font-weight="bold">
       BLUE 引力
@@ -71,9 +60,7 @@
   <!-- Section 3: Red -->
   <g>
     <rect x="80" y="450" width="500" height="280" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
-    <circle cx="330" cy="530" r="60" fill="#EF4444" opacity="0.3" filter="url(#glow)">
-      <animate attributeName="r" values="60;75;60" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
+    <circle cx="330" cy="530" r="60" fill="#EF4444" opacity="0.3"/>
     <text x="330" y="540" font-family="serif" font-size="50" fill="#EF4444" text-anchor="middle" font-weight="bold">赫</text>
     <text x="330" y="580" font-family="monospace" font-size="22" fill="#EF4444" text-anchor="middle" font-weight="bold">
       RED 斥力
@@ -91,12 +78,8 @@
   <!-- Section 4: Hollow Purple -->
   <g>
     <rect x="620" y="450" width="500" height="280" fill="#0f0f1a" stroke="#9F5AFD" stroke-width="2" rx="10"/>
-    <circle cx="870" cy="540" r="70" fill="none" stroke="#9F5AFD" stroke-width="3" filter="url(#glow)">
-      <animate attributeName="r" values="70;85;70" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="870" cy="540" r="40" fill="#9F5AFD" opacity="0.3">
-      <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
-    </circle>
+    <circle cx="870" cy="540" r="70" fill="none" stroke="#9F5AFD" stroke-width="3"/>
+    <circle cx="870" cy="540" r="40" fill="#9F5AFD" opacity="0.3"/>
     <text x="870" y="490" font-family="monospace" font-size="20" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
       虚式「茈」 HOLLOW PURPLE
     </text>

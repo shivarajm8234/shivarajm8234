@@ -4,77 +4,60 @@
       <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0a0a0f;stop-opacity:1" />
     </linearGradient>
-    <linearGradient id="redGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#EF4444;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#DC2626;stop-opacity:1" />
-    </linearGradient>
   </defs>
   
-  <!-- Background -->
   <rect width="1200" height="650" fill="url(#bgGrad5)"/>
-  
-  <!-- Border -->
   <rect x="20" y="20" width="1160" height="610" fill="none" stroke="#EF4444" stroke-width="3" rx="15"/>
   
-  <!-- Title -->
   <text x="600" y="80" font-family="monospace" font-size="36" fill="#EF4444" text-anchor="middle" font-weight="bold">
     V. COMBAT PROWESS 戦闘能力 [ TACTICAL DEVELOPMENT ]
   </text>
   
-  <!-- Japanese characters -->
   <text x="600" y="130" font-family="serif" font-size="30" fill="#EF4444" text-anchor="middle" opacity="0.2" font-weight="bold">
     戦闘能力
   </text>
   
-  <!-- Content Boxes -->
-  <g>
-    <!-- Rapid Prototyping -->
-    <rect x="80" y="160" width="520" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
-    <text x="340" y="195" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
-      RAPID PROTOTYPING &amp; MVP BUILDING
-    </text>
-    <text x="100" y="230" font-family="monospace" font-size="14" fill="#C0C0C0">
-      <tspan x="100" dy="0">Translates vague ideas into working prototypes quickly,</tspan>
-      <tspan x="100" dy="20">validating concepts before scaling.</tspan>
-      <tspan x="100" dy="35" fill="#EF4444" font-weight="bold">Output: MVP in record time</tspan>
-    </text>
-    
-    <!-- End-to-End Design -->
-    <rect x="620" y="160" width="500" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
-    <text x="870" y="195" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
-      END-TO-END SYSTEM DESIGN
-    </text>
-    <text x="640" y="230" font-family="monospace" font-size="14" fill="#C0C0C0">
-      <tspan x="640" dy="0">Handles full lifecycle:</tspan>
-      <tspan x="640" dy="20">requirements → architecture → development →</tspan>
-      <tspan x="640" dy="20">deployment → optimization</tspan>
-      <tspan x="640" dy="35" fill="#EF4444" font-weight="bold">Output: Complete ownership</tspan>
-    </text>
-    
-    <!-- Mental Modeling -->
-    <rect x="80" y="370" width="520" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
-    <text x="340" y="405" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
-      MENTAL MODELING BEFORE CODING
-    </text>
-    <text x="100" y="440" font-family="monospace" font-size="14" fill="#C0C0C0">
-      <tspan x="100" dy="0">Breaks complex problems into data flow, components,</tspan>
-      <tspan x="100" dy="20">and edge cases before writing code—reducing rework.</tspan>
-      <tspan x="100" dy="35" fill="#EF4444" font-weight="bold">Output: Think first, code second</tspan>
-    </text>
-    
-    <!-- Project Ownership -->
-    <rect x="620" y="370" width="500" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
-    <text x="870" y="405" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
-      PROJECT OWNERSHIP &amp; CONTROL
-    </text>
-    <text x="640" y="440" font-family="monospace" font-size="14" fill="#C0C0C0">
-      <tspan x="640" dy="0">Independently manages complex projects, balances</tspan>
-      <tspan x="640" dy="20">trade-offs, and ships functional, production-ready systems.</tspan>
-      <tspan x="640" dy="35" fill="#EF4444" font-weight="bold">Output: Autonomous execution</tspan>
-    </text>
-  </g>
+  <rect x="80" y="160" width="520" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
+  <text x="340" y="195" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
+    RAPID PROTOTYPING &amp; MVP BUILDING
+  </text>
+  <text x="100" y="230" font-family="monospace" font-size="14" fill="#C0C0C0">
+    <tspan x="100" dy="0">Translates vague ideas into working prototypes quickly,</tspan>
+    <tspan x="100" dy="20">validating concepts before scaling.</tspan>
+    <tspan x="100" dy="35" fill="#EF4444" font-weight="bold">Output: MVP in record time</tspan>
+  </text>
   
-  <!-- Footer -->
+  <rect x="620" y="160" width="500" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
+  <text x="870" y="195" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
+    END-TO-END SYSTEM DESIGN
+  </text>
+  <text x="640" y="230" font-family="monospace" font-size="14" fill="#C0C0C0">
+    <tspan x="640" dy="0">Handles full lifecycle:</tspan>
+    <tspan x="640" dy="20">requirements → architecture → development →</tspan>
+    <tspan x="640" dy="20">deployment → optimization</tspan>
+    <tspan x="640" dy="35" fill="#EF4444" font-weight="bold">Output: Complete ownership</tspan>
+  </text>
+  
+  <rect x="80" y="370" width="520" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
+  <text x="340" y="405" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
+    MENTAL MODELING BEFORE CODING
+  </text>
+  <text x="100" y="440" font-family="monospace" font-size="14" fill="#C0C0C0">
+    <tspan x="100" dy="0">Breaks complex problems into data flow, components,</tspan>
+    <tspan x="100" dy="20">and edge cases before writing code—reducing rework.</tspan>
+    <tspan x="100" dy="35" fill="#EF4444" font-weight="bold">Output: Think first, code second</tspan>
+  </text>
+  
+  <rect x="620" y="370" width="500" height="190" fill="#0f0f1a" stroke="#EF4444" stroke-width="2" rx="10"/>
+  <text x="870" y="405" font-family="monospace" font-size="20" fill="#EF4444" text-anchor="middle" font-weight="bold">
+    PROJECT OWNERSHIP &amp; CONTROL
+  </text>
+  <text x="640" y="440" font-family="monospace" font-size="14" fill="#C0C0C0">
+    <tspan x="640" dy="0">Independently manages complex projects, balances</tspan>
+    <tspan x="640" dy="20">trade-offs, and ships functional, production-ready systems.</tspan>
+    <tspan x="640" dy="35" fill="#EF4444" font-weight="bold">Output: Autonomous execution</tspan>
+  </text>
+  
   <text x="600" y="600" font-family="monospace" font-size="16" fill="#EF4444" text-anchor="middle" opacity="0.7">
     COMBAT PROWESS - BATTLE READY
   </text>
