@@ -29,67 +29,69 @@
 
 ## **I. INNATE TECHNIQUES** `[ LIMITLESS ]`
 
-<table>
-<tr>
-<td width="50%">
+<details open>
+<summary><b>⚡ INFINITY</b> <code>∞</code></summary>
 
-### **INFINITY** `∞`
 ```yaml
 Type: Defensive Architecture
-Effect: Infinite separation between 
-       sensitive data and threats
-Implementation: Multi-layer API security
-Status: ACTIVE
+Effect: Infinite separation between sensitive data and threats
+Implementation: Multi-layer API security with JWT, OAuth2, rate limiting
+Stack: Express middleware | Helmet | CORS | Input validation
+Status: ✓ ACTIVE
 ```
 
-</td>
-<td width="50%">
+</details>
 
-### **NEUTRAL LIMITLESS**
+<details open>
+<summary><b>🌀 NEUTRAL LIMITLESS</b></summary>
+
 ```yaml
 Type: Traffic Control
-Effect: Automatic threat interception
-       before system impact
-Implementation: Load balancing + filtering
-Status: ACTIVE
+Effect: Automatic threat interception before system impact
+Implementation: Load balancing + intelligent request filtering
+Stack: Nginx | Redis caching | DDoS protection | Health checks
+Status: ✓ ACTIVE
 ```
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</details>
 
-### **BLUE** `蒼`
+<details open>
+<summary><b>🔵 BLUE</b> <code>蒼</code></summary>
+
 ```yaml
 Type: Data Aggregation
-Effect: Vacuum-pull disparate datasets
-       into unified state
-Stack: SQL | NoSQL | REST APIs
-Status: ACTIVE
+Effect: Vacuum-pull disparate datasets into unified state
+Implementation: Multi-source data integration with ETL pipelines
+Stack: PostgreSQL | MongoDB | Redis | REST/GraphQL APIs
+Status: ✓ ACTIVE
 ```
 
-</td>
-<td width="50%">
+</details>
 
-### **RED** `赫`
+<details open>
+<summary><b>🔴 RED</b> <code>赫</code></summary>
+
 ```yaml
 Type: Deployment Pipeline
-Effect: High-velocity push updates
-       with overwhelming force
-Stack: CI/CD | Docker | K8s
-Status: ACTIVE
+Effect: High-velocity push updates with overwhelming force
+Implementation: Automated CI/CD with zero-downtime deployments
+Stack: GitHub Actions | Docker | Kubernetes | Vercel | Railway
+Status: ✓ ACTIVE
 ```
 
-</td>
-</tr>
-</table>
+</details>
+
+<br/>
 
 <div align="center">
 
-### **HOLLOW PURPLE** `虚式「茈」`
-```
-Frontend (BLUE) + Backend (RED) = ABSOLUTE FUSION
-Erases technical debt at atomic level
+### **💜 HOLLOW PURPLE** `虚式「茈」`
+
+```diff
+! TECHNIQUE FUSION: BLUE + RED = ABSOLUTE DESTRUCTION
++ Frontend (React/Next.js) + Backend (Node/Python) = FULL STACK MASTERY
++ Erases technical debt at atomic level through clean architecture
++ Result: Seamless, production-ready applications
 ```
 
 </div>
