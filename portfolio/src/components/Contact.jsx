@@ -3,7 +3,7 @@ import { SOCIAL_LINKS } from "../constants";
 
 const Contact = () => {
   return (
-    <section id="contact" className="py-32 px-4 relative flex flex-col items-center justify-center min-h-[60vh] bg-infinite-void">
+    <section id="contact" className="py-32 px-4 relative flex flex-col items-center justify-center min-h-[60vh]">
       {/* Footer Gradient */}
       <div className="absolute bottom-0 w-full h-full bg-gradient-to-t from-hollow-purple/5 to-transparent pointer-events-none" />
 
