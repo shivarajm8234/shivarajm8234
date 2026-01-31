@@ -2,11 +2,11 @@
 
 @theme {
   --color-detective-black: #050505;
-  --color-infinite-void: #020005;
-  --color-hollow-purple: #8a2be2;
-  --color-six-eyes: #3b82f6; 
+  --color-infinite-void: #000000; /* Pure black for video contrast */
+  --color-hollow-purple: #9f5afd; /* Brighter purple for visibility */
+  --color-six-eyes: #60a5fa; /* Brighter blue */
   --color-cursed-red: #ef4444;
-  --color-glass-dark: rgba(20, 0, 30, 0.6);
+  --color-glass-dark: rgba(5, 5, 10, 0.7); /* Darker glass */
 
   --font-mono: "JetBrains Mono", monospace;
   --font-sans: "Inter", sans-serif;
@@ -44,7 +44,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #020005; 
+  background: #000; 
 }
 
 ::-webkit-scrollbar-thumb {
@@ -58,18 +58,18 @@ body {
 
 .glass-card {
   background: var(--color-glass-dark);
-  backdrop-filter: blur(16px);
-  border: 1px solid rgba(138, 43, 226, 0.1); /* Hollow Purple tint */
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(159, 90, 253, 0.15); 
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.6);
 }
 
 .text-glow {
-  text-shadow: 0 0 10px rgba(59, 130, 246, 0.5); /* Six Eyes Glow */
+  text-shadow: 0 0 15px rgba(96, 165, 250, 0.6);
 }
 
 .grid-bg {
   background-size: 60px 60px;
   background-image:
-    linear-gradient(to right, rgba(138, 43, 226, 0.05) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(138, 43, 226, 0.05) 1px, transparent 1px);
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
 }

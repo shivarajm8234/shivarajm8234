@@ -26,13 +26,21 @@ function App() {
 
   return (
     <div className="bg-infinite-void min-h-screen w-full relative overflow-hidden text-white selection:bg-hollow-purple/30 selection:text-white">
-      {/* Gojo Background Theme */}
-      <div className="fixed inset-0 z-0 opacity-20 pointer-events-none mix-blend-screen">
-          <img 
-            src="https://wallpapers.com/images/hd/gojo-satoru-4k-dark-blue-eyes-2y42q208g0099450.jpg" 
-            alt="Gojo Theme" 
-            className="w-full h-full object-cover"
-          />
+      {/* Gojo Background Theme - Video */}
+      <div className="fixed inset-0 z-0 opacity-30 pointer-events-none mix-blend-screen bg-black">
+          <video 
+            autoPlay 
+            loop 
+            muted 
+            playsInline
+            className="w-full h-full object-cover opacity-60"
+          >
+            <source src="/shivarajm8234/gojo_bg.mp4" type="video/mp4" />
+            {/* Fallback for dev environment which doesn't use base path */}
+            <source src="/gojo_bg.mp4" type="video/mp4" />
+          </video>
+          {/* Overlay to ensure text readability */}
+          <div className="absolute inset-0 bg-infinite-void/90" />
       </div>
 
       {/* Dynamic Cursor Light Effect (Hollow Purple) */}
