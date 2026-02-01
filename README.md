@@ -43,74 +43,71 @@
 
 <div align="left">
 
-<img src=".github/assets/section_1_techniques.svg" width="48%" align="left" hspace="10" />
+<img src=".github/assets/section_1_techniques.svg" width="48%" align="left" hspace="15" />
 
 ### **I. INNATE TECHNIQUES 『LIMITLESS』**
-*Advanced Full-Stack Architectures*
-- **Infinity**: Multi-layer security & data isolation.
-- **Blue**: High-speed data aggregation & vacuuming.
-- **Red**: Rapid CI/CD & deployment repulsion.
-- **Hollow Purple**: Absolute full-stack mastery fusion.
+*Defensive Architecture & Data Aggregation*
+- **Infinity 『無下限』**: Multi-layer API security (JWT | OAuth2 | Rate limiting) ensuring infinite separation between threats and sensitive data.
+- **Blue 『蒼』**: High-speed vacuum-pull of disparate datasets into a unified state using PostgreSQL, MongoDB, and external APIs.
+- **Red 『赫』**: High-velocity deployment pipeline using GitHub Actions, Docker, and K8s for overwhelming update force.
+- **Hollow Purple 『茈』**: Fusion of absolute full-stack mastery to erase technical debt at the atomic level.
 
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_2_six_eyes.svg" width="48%" align="left" hspace="10" />
+<img src=".github/assets/section_2_six_eyes.svg" width="48%" align="left" hspace="15" />
 
 ### **II. SIX EYES 『ANALYTICAL PERCEPTION』**
 *Deep Code & System Inspection*
-- **Deep Inspection**: Mental tracing of logic flows.
-- **Efficiency**: Zero-waste algorithmic design.
-- **Clean Code**: Modular & readable abstractions.
-- **Rapid Debugging**: Root-cause diagnostics.
+- **Deep Code Inspection**: Mental tracing of logic flows, async behavior, API chains, and state transitions across full-stack services.
+- **Algorithmic Efficiency**: Designing systems with optimal time and space complexity, prioritizing scalability and minimal compute cost.
+- **Clean Code**: Modular, readable abstractions following strict separation of concerns to avoid technical debt.
+- **Rapid Debugging**: Diagnosing root causes across logs, network calls, and databases rather than surface symptoms.
 
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_3_domain.svg" width="48%" align="left" hspace="10" />
+<img src=".github/assets/section_3_domain.svg" width="48%" align="left" hspace="15" />
 
 ### **III. DOMAIN EXPANSION 『UNLIMITED INFORMATION』**
-*High-Performance Environments*
-- **Immersive UX**: Context-aware interfaces.
-- **Data Scaling**: Unlimited information processing.
-- **AI Integration**: Living, breathing neural systems.
-- **Scope Control**: Total control over the runtime environment.
+*High-Performance & AI-Driven Environments*
+- **Scalable Architecture**: Engineering systems for high-volume data, concurrent users, and real-time workflows using modular services.
+- **Reliability & Testability**: Ensuring predictable execution through rigorous validation, error handling, and unit/integration testing.
+- **Performance Engineering**: Optimizing for smooth UX under load via efficient queries, async processing, and smart rendering.
 
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_4_reverse.svg" width="48%" align="left" hspace="10" />
+<img src=".github/assets/section_4_reverse.svg" width="48%" align="left" hspace="15" />
 
-### **IV. REVERSE CURSED TECHNIQUE 『RESTORATION』**
-*System Healing & Optimization*
-- **Refactoring**: Turning technical debt into assets.
-- **Optimization**: Converting energy waste into performance.
-- **Legacy Healing**: Modernizing deprecated systems.
-- **Stability**: Ensuring 99.9% uptime and resilience.
-
-<br clear="left" />
-<br/>
-
-<img src=".github/assets/section_5_combat.svg" width="48%" align="left" hspace="10" />
-
-### **V. COMBAT PROWESS 『EXECUTION』**
-*Operational Excellence*
-- **Precision**: Pixel-perfect front-end execution.
-- **Power**: Heavy-duty back-end processing.
-- **Speed**: Minimal latency & fast response times.
-- **Strategy**: Agile methodology & rapid iteration.
+### **IV. REVERSE CURSED TECHNIQUE 『ENERGY CONTROL』**
+*System Healing & Skill Absorption*
+- **Self-Healing & Fault Tolerance**: Designing with retries, graceful fallbacks, and automated recovery to minimize system downtime.
+- **Continuous Skill Absorption**: Rapidly learning and applying new frameworks, APIs, and AI models based on project-specific needs.
+- **Deep Focus Execution**: Maintaining momentum through high-cognitive load development sessions with extreme accuracy.
 
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_6_profile.svg" width="48%" align="left" hspace="10" />
+<img src=".github/assets/section_5_combat.svg" width="48%" align="left" hspace="15" />
 
-### **VI. SORCERER PROFILE 『IDENTIFICATION』**
-*The Special Grade Developer*
-- **Rank**: Special Grade (Level 100 Mastery).
-- **Specialty**: Full-Stack AI Engineering.
-- **Cursed Tool**: VS Code | Terminal | Git.
-- **Goal**: Dominating the digital landscape.
+### **V. COMBAT PROWESS 『TACTICAL DEVELOPMENT』**
+*Operational Excellence & Ownership*
+- **Rapid Prototyping & MVP Building**: Translating vague ideas into production-ready prototypes and validating concepts at record speed.
+- **End-to-End System Design**: Handling the full lifecycle from requirements and architecture to deployment and optimization.
+- **Mental Modeling**: Breaking complex problems into data flows and edge cases before a single line of code is written.
+
+<br clear="left" />
+<br/>
+
+<img src=".github/assets/section_6_profile.svg" width="48%" align="left" hspace="15" />
+
+### **VI. SORCERER PROFILE 『SPECIAL GRADE』**
+*Full Stack Developer & AI Systems Engineer*
+- **Focus Areas**: AI Agents & Automation, Scalable Web Apps, Performance Optimization, and System Design.
+- **Working Style**: High-discipline, low-noise, execution-first. Prefers solving results over visibility.
+- **Reputation**: Solves complex, ambiguous technical problems requiring both creativity and precision.
+- **Status**: **SPECIAL GRADE DEVELOPER** (Fully Verified).
 
 <br clear="left" />
 </div>
