@@ -43,38 +43,109 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="55%">
 
-![Section 1: Innate Techniques](.github/assets/section_1_techniques.svg?v=2)
-
-</td>
-<td width="50%" align="center">
-
-![Section 2: Six Eyes](.github/assets/section_2_six_eyes.svg?v=2)
+![Section 1: Innate Techniques](.github/assets/section_1_techniques.svg)
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td width="45%" align="left">
 
-![Section 3: Domain Expansion](.github/assets/section_3_domain.svg?v=2)
-
-</td>
-<td width="50%" align="center">
-
-![Section 4: Reverse Cursed Technique](.github/assets/section_4_reverse.svg?v=2)
+### **I. INNATE TECHNIQUES 『 LIMITLESS 』**
+*Advanced Full-Stack Architectures*
+- **Infinity**: Multi-layer security & data isolation.
+- **Blue**: High-speed data aggregation & vacuuming.
+- **Red**: Rapid CI/CD & deployment repulsion.
+- **Hollow Purple**: Absolute full-stack mastery fusion.
 
 </td>
 </tr>
-<tr>
-<td width="50%" align="center">
 
-![Section 5: Combat Prowess](.github/assets/section_5_combat.svg?v=2)
+<tr>
+<td width="55%">
+
+![Section 2: Six Eyes](.github/assets/section_2_six_eyes.svg)
 
 </td>
-<td width="50%" align="center">
+<td width="45%" align="left">
 
-![Section 6: Sorcerer Profile](.github/assets/section_6_profile.svg?v=2)
+### **II. SIX EYES 『 ANALYTICAL PERCEPTION 』**
+*Deep Code & System Inspection*
+- **Deep Inspection**: Mental tracing of logic flows.
+- **Efficiency**: Zero-waste algorithmic design.
+- **Clean Code**: Modular & readable abstractions.
+- **Rapid Debugging**: Root-cause diagnostics.
+
+</td>
+</tr>
+
+<tr>
+<td width="55%">
+
+![Section 3: Domain Expansion](.github/assets/section_3_domain.svg)
+
+</td>
+<td width="45%" align="left">
+
+### **III. DOMAIN EXPANSION 『 UNLIMITED INFORMATION 』**
+*High-Performance Environments*
+- **Immersive UX**: Context-aware interfaces.
+- **Data Scaling**: Unlimited information processing.
+- **AI Integration**: Living, breathing neural systems.
+- **Scope Control**: Total control over the runtime environment.
+
+</td>
+</tr>
+
+<tr>
+<td width="55%">
+
+![Section 4: Reverse Cursed Technique](.github/assets/section_4_reverse.svg)
+
+</td>
+<td width="45%" align="left">
+
+### **IV. REVERSE CURSED TECHNIQUE 『 RESTORATION 』**
+*System Healing & Optimization*
+- **Refactoring**: Turning technical debt into assets.
+- **Optimization**: Converting energy waste into performance.
+- **Legacy Healing**: Modernizing deprecated systems.
+- **Stability**: Ensuring 99.9% uptime and resilience.
+
+</td>
+</tr>
+
+<tr>
+<td width="55%">
+
+![Section 5: Combat Prowess](.github/assets/section_5_combat.svg)
+
+</td>
+<td width="45%" align="left">
+
+### **V. COMBAT PROWESS 『 EXECUTION 』**
+*Operational Excellence*
+- **Precision**: Pixel-perfect front-end execution.
+- **Power**: Heavy-duty back-end processing.
+- **Speed**: Minimal latency & fast response times.
+- **Strategy**: Agile methodology & rapid iteration.
+
+</td>
+</tr>
+
+<tr>
+<td width="55%">
+
+![Section 6: Sorcerer Profile](.github/assets/section_6_profile.svg)
+
+</td>
+<td width="45%" align="left">
+
+### **VI. SORCERER PROFILE 『 IDENTIFICATION 』**
+*The Special Grade Developer*
+- **Rank**: Special Grade (Level 100 Mastery).
+- **Specialty**: Full-Stack AI Engineering.
+- **Cursed Tool**: VS Code | Terminal | Git.
+- **Goal**: Dominating the digital landscape.
 
 </td>
 </tr>
