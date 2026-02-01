@@ -41,14 +41,9 @@
 
 ---
 
-<table>
-<tr>
-<td width="55%">
+<div align="left">
 
-![Section 1: Innate Techniques](.github/assets/section_1_techniques.svg)
-
-</td>
-<td width="45%" align="left">
+<img src=".github/assets/section_1_techniques.svg" width="55%" align="left" />
 
 ### **I. INNATE TECHNIQUES 『LIMITLESS』**
 *Advanced Full-Stack Architectures*
@@ -57,16 +52,10 @@
 - **Red**: Rapid CI/CD & deployment repulsion.
 - **Hollow Purple**: Absolute full-stack mastery fusion.
 
-</td>
-</tr>
+<br clear="left" />
+<br/>
 
-<tr>
-<td width="55%">
-
-![Section 2: Six Eyes](.github/assets/section_2_six_eyes.svg)
-
-</td>
-<td width="45%" align="left">
+<img src=".github/assets/section_2_six_eyes.svg" width="55%" align="left" />
 
 ### **II. SIX EYES 『ANALYTICAL PERCEPTION』**
 *Deep Code & System Inspection*
@@ -75,16 +64,10 @@
 - **Clean Code**: Modular & readable abstractions.
 - **Rapid Debugging**: Root-cause diagnostics.
 
-</td>
-</tr>
+<br clear="left" />
+<br/>
 
-<tr>
-<td width="55%">
-
-![Section 3: Domain Expansion](.github/assets/section_3_domain.svg)
-
-</td>
-<td width="45%" align="left">
+<img src=".github/assets/section_3_domain.svg" width="55%" align="left" />
 
 ### **III. DOMAIN EXPANSION 『UNLIMITED INFORMATION』**
 *High-Performance Environments*
@@ -93,16 +76,10 @@
 - **AI Integration**: Living, breathing neural systems.
 - **Scope Control**: Total control over the runtime environment.
 
-</td>
-</tr>
+<br clear="left" />
+<br/>
 
-<tr>
-<td width="55%">
-
-![Section 4: Reverse Cursed Technique](.github/assets/section_4_reverse.svg)
-
-</td>
-<td width="45%" align="left">
+<img src=".github/assets/section_4_reverse.svg" width="55%" align="left" />
 
 ### **IV. REVERSE CURSED TECHNIQUE 『RESTORATION』**
 *System Healing & Optimization*
@@ -111,16 +88,10 @@
 - **Legacy Healing**: Modernizing deprecated systems.
 - **Stability**: Ensuring 99.9% uptime and resilience.
 
-</td>
-</tr>
+<br clear="left" />
+<br/>
 
-<tr>
-<td width="55%">
-
-![Section 5: Combat Prowess](.github/assets/section_5_combat.svg)
-
-</td>
-<td width="45%" align="left">
+<img src=".github/assets/section_5_combat.svg" width="55%" align="left" />
 
 ### **V. COMBAT PROWESS 『EXECUTION』**
 *Operational Excellence*
@@ -129,16 +100,10 @@
 - **Speed**: Minimal latency & fast response times.
 - **Strategy**: Agile methodology & rapid iteration.
 
-</td>
-</tr>
+<br clear="left" />
+<br/>
 
-<tr>
-<td width="55%">
-
-![Section 6: Sorcerer Profile](.github/assets/section_6_profile.svg)
-
-</td>
-<td width="45%" align="left">
+<img src=".github/assets/section_6_profile.svg" width="55%" align="left" />
 
 ### **VI. SORCERER PROFILE 『IDENTIFICATION』**
 *The Special Grade Developer*
@@ -147,9 +112,8 @@
 - **Cursed Tool**: VS Code | Terminal | Git.
 - **Goal**: Dominating the digital landscape.
 
-</td>
-</tr>
-</table>
+<br clear="left" />
+</div>
 
 ---
 
