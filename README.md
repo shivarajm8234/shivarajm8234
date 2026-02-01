@@ -43,7 +43,7 @@
 
 <div align="left">
 
-<img src=".github/assets/section_1_techniques.svg" width="55%" align="left" />
+<img src=".github/assets/section_1_techniques.svg" width="48%" align="left" hspace="10" />
 
 ### **I. INNATE TECHNIQUES 『LIMITLESS』**
 *Advanced Full-Stack Architectures*
@@ -55,7 +55,7 @@
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_2_six_eyes.svg" width="55%" align="left" />
+<img src=".github/assets/section_2_six_eyes.svg" width="48%" align="left" hspace="10" />
 
 ### **II. SIX EYES 『ANALYTICAL PERCEPTION』**
 *Deep Code & System Inspection*
@@ -67,7 +67,7 @@
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_3_domain.svg" width="55%" align="left" />
+<img src=".github/assets/section_3_domain.svg" width="48%" align="left" hspace="10" />
 
 ### **III. DOMAIN EXPANSION 『UNLIMITED INFORMATION』**
 *High-Performance Environments*
@@ -79,7 +79,7 @@
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_4_reverse.svg" width="55%" align="left" />
+<img src=".github/assets/section_4_reverse.svg" width="48%" align="left" hspace="10" />
 
 ### **IV. REVERSE CURSED TECHNIQUE 『RESTORATION』**
 *System Healing & Optimization*
@@ -91,7 +91,7 @@
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_5_combat.svg" width="55%" align="left" />
+<img src=".github/assets/section_5_combat.svg" width="48%" align="left" hspace="10" />
 
 ### **V. COMBAT PROWESS 『EXECUTION』**
 *Operational Excellence*
@@ -103,7 +103,7 @@
 <br clear="left" />
 <br/>
 
-<img src=".github/assets/section_6_profile.svg" width="55%" align="left" />
+<img src=".github/assets/section_6_profile.svg" width="48%" align="left" hspace="10" />
 
 ### **VI. SORCERER PROFILE 『IDENTIFICATION』**
 *The Special Grade Developer*
