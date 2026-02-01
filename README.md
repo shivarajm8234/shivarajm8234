@@ -50,7 +50,7 @@
 </td>
 <td width="45%" align="left">
 
-### **I. INNATE TECHNIQUES 『 LIMITLESS 』**
+### **I. INNATE TECHNIQUES 『LIMITLESS』**
 *Advanced Full-Stack Architectures*
 - **Infinity**: Multi-layer security & data isolation.
 - **Blue**: High-speed data aggregation & vacuuming.
@@ -68,7 +68,7 @@
 </td>
 <td width="45%" align="left">
 
-### **II. SIX EYES 『 ANALYTICAL PERCEPTION 』**
+### **II. SIX EYES 『ANALYTICAL PERCEPTION』**
 *Deep Code & System Inspection*
 - **Deep Inspection**: Mental tracing of logic flows.
 - **Efficiency**: Zero-waste algorithmic design.
@@ -86,7 +86,7 @@
 </td>
 <td width="45%" align="left">
 
-### **III. DOMAIN EXPANSION 『 UNLIMITED INFORMATION 』**
+### **III. DOMAIN EXPANSION 『UNLIMITED INFORMATION』**
 *High-Performance Environments*
 - **Immersive UX**: Context-aware interfaces.
 - **Data Scaling**: Unlimited information processing.
@@ -104,7 +104,7 @@
 </td>
 <td width="45%" align="left">
 
-### **IV. REVERSE CURSED TECHNIQUE 『 RESTORATION 』**
+### **IV. REVERSE CURSED TECHNIQUE 『RESTORATION』**
 *System Healing & Optimization*
 - **Refactoring**: Turning technical debt into assets.
 - **Optimization**: Converting energy waste into performance.
@@ -122,7 +122,7 @@
 </td>
 <td width="45%" align="left">
 
-### **V. COMBAT PROWESS 『 EXECUTION 』**
+### **V. COMBAT PROWESS 『EXECUTION』**
 *Operational Excellence*
 - **Precision**: Pixel-perfect front-end execution.
 - **Power**: Heavy-duty back-end processing.
@@ -140,7 +140,7 @@
 </td>
 <td width="45%" align="left">
 
-### **VI. SORCERER PROFILE 『 IDENTIFICATION 』**
+### **VI. SORCERER PROFILE 『IDENTIFICATION』**
 *The Special Grade Developer*
 - **Rank**: Special Grade (Level 100 Mastery).
 - **Specialty**: Full-Stack AI Engineering.
