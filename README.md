@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Shivaraj%20M&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20%26%20AI%20Systems%20Engineer%20%7C%20India%20🇮🇳&amp;descAlignY=55&amp;descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Shivaraj%20M&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20and%20AI%20Systems%20Engineer%20%7C%20India%20🇮🇳&amp;descAlignY=55&amp;descSize=18" width="100%" />
 
 <div align="center">
   <a href="mailto:shivarajmani2005@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -24,9 +24,13 @@
 
 <br>
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Typing Cat GIF" />
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave emoji gif"> About Me
 
 ```javascript
 const shivaraj = {
@@ -38,6 +42,8 @@ const shivaraj = {
     funFact: "I believe a clean codebase is a quiet mind."
 };
 ```
+
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I'm currently working with **Next.js, LLM Agents and Cloud Workflows**
 - 🤝 I'm looking to collaborate on **Advanced Automation and Web Systems**
