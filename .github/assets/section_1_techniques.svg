@@ -20,7 +20,7 @@
   
   <!-- Title -->
   <text x="600" y="80" font-family="monospace" font-size="36" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
-    I. INNATE TECHNIQUES [ LIMITLESS ] 術式
+    II. CORE ENGINEERING CAPABILITIES
   </text>
   
   <!-- Section 1: Infinity with animated symbol -->
@@ -31,15 +31,15 @@
       <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
     </path>
     <text x="320" y="260" font-family="monospace" font-size="22" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
-      ∞ INFINITY 無下限
+      SYSTEM SECURITY
     </text>
     <text x="100" y="300" font-family="monospace" font-size="13" fill="#C0C0C0">
       <tspan x="100" dy="0">Classification: Defensive Architecture</tspan>
-      <tspan x="100" dy="18">Technique: Infinite separation between</tspan>
-      <tspan x="100" dy="18">           sensitive data and threats</tspan>
+      <tspan x="100" dy="18">Methodology: Strict boundary control between</tspan>
+      <tspan x="100" dy="18">           sensitive data and external clients</tspan>
       <tspan x="100" dy="18">Implementation: Multi-layer API security</tspan>
       <tspan x="100" dy="18">                JWT | OAuth2 | Rate limiting</tspan>
-      <tspan x="100" dy="20" fill="#60FA60" font-weight="bold">Status: ✓ ACTIVE</tspan>
+      <tspan x="100" dy="20" fill="#60FA60" font-weight="bold">Status: ✓ OPERATIONAL</tspan>
     </text>
   </g>
   
@@ -50,17 +50,17 @@
       <animate attributeName="r" values="55;65;55" dur="2.5s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2.5s" repeatCount="indefinite"/>
     </circle>
-    <text x="870" y="220" font-family="serif" font-size="50" fill="#60A5FA" text-anchor="middle" font-weight="bold">蒼</text>
+    <text x="870" y="220" font-family="monospace" font-size="40" fill="#60A5FA" text-anchor="middle" font-weight="bold">DATA</text>
     <text x="870" y="260" font-family="monospace" font-size="22" fill="#60A5FA" text-anchor="middle" font-weight="bold">
-      BLUE 引力
+      INGESTION PIPELINES
     </text>
     <text x="640" y="300" font-family="monospace" font-size="13" fill="#C0C0C0">
-      <tspan x="640" dy="0">Classification: Data Aggregation</tspan>
-      <tspan x="640" dy="18">Technique: Vacuum-pull disparate datasets</tspan>
-      <tspan x="640" dy="18">           into unified state</tspan>
-      <tspan x="640" dy="18">Implementation: Multi-source integration</tspan>
-      <tspan x="640" dy="18">                PostgreSQL | MongoDB | APIs</tspan>
-      <tspan x="640" dy="20" fill="#60FA60" font-weight="bold">Status: ✓ ACTIVE</tspan>
+      <tspan x="640" dy="0">Classification: Data Integration</tspan>
+      <tspan x="640" dy="18">Methodology: High-throughput ingestion of</tspan>
+      <tspan x="640" dy="18">           disparate web sources &amp; datasets</tspan>
+      <tspan x="640" dy="18">Implementation: Multi-source processing</tspan>
+      <tspan x="640" dy="18">                PostgreSQL | MongoDB | Scraping APIs</tspan>
+      <tspan x="640" dy="20" fill="#60FA60" font-weight="bold">Status: ✓ OPERATIONAL</tspan>
     </text>
   </g>
   
@@ -71,17 +71,17 @@
       <animate attributeName="r" values="55;65;55" dur="2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0.2;0.4;0.2" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="330" y="540" font-family="serif" font-size="50" fill="#EF4444" text-anchor="middle" font-weight="bold">赫</text>
+    <text x="330" y="540" font-family="monospace" font-size="40" fill="#EF4444" text-anchor="middle" font-weight="bold">DEPLOY</text>
     <text x="330" y="580" font-family="monospace" font-size="22" fill="#EF4444" text-anchor="middle" font-weight="bold">
-      RED 斥力
+      CI/CD AUTOMATION
     </text>
     <text x="100" y="620" font-family="monospace" font-size="13" fill="#C0C0C0">
       <tspan x="100" dy="0">Classification: Deployment Pipeline</tspan>
-      <tspan x="100" dy="18">Technique: High-velocity push updates</tspan>
-      <tspan x="100" dy="18">           with overwhelming force</tspan>
-      <tspan x="100" dy="18">Implementation: Automated CI/CD</tspan>
-      <tspan x="100" dy="18">                GitHub Actions | Docker | K8s</tspan>
-      <tspan x="100" dy="20" fill="#60FA60" font-weight="bold">Status: ✓ ACTIVE</tspan>
+      <tspan x="100" dy="18">Methodology: Continuous integration &amp; high-velocity</tspan>
+      <tspan x="100" dy="18">           deployment setups</tspan>
+      <tspan x="100" dy="18">Implementation: Automated Pipelines</tspan>
+      <tspan x="100" dy="18">                GitHub Actions | Docker | Cloud Hosting</tspan>
+      <tspan x="100" dy="20" fill="#60FA60" font-weight="bold">Status: ✓ OPERATIONAL</tspan>
     </text>
   </g>
   
@@ -96,19 +96,19 @@
       <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite"/>
     </circle>
     <text x="870" y="490" font-family="monospace" font-size="20" fill="#9F5AFD" text-anchor="middle" font-weight="bold">
-      虚式「茈」 HOLLOW PURPLE
+      FULL STACK INTEGRATION
     </text>
     <text x="870" y="620" font-family="monospace" font-size="13" fill="#C0C0C0" text-anchor="middle">
-      <tspan x="870" dy="0" fill="#FF6B6B">! TECHNIQUE FUSION: 蒼 + 赫 = 虚式</tspan>
+      <tspan x="870" dy="0" fill="#FF6B6B">! SYSTEMS SYNERGY: UI + Back-end + DB</tspan>
       <tspan x="870" dy="18" fill="#60FA60">+ Frontend (React/Next.js) + Backend (Node/Python)</tspan>
-      <tspan x="870" dy="18" fill="#60FA60">+ = ABSOLUTE FULL STACK MASTERY</tspan>
-      <tspan x="870" dy="18" fill="#60FA60">+ Erases technical debt at atomic level</tspan>
+      <tspan x="870" dy="18" fill="#60FA60">+ = SEAMLESS END-TO-END SOLUTIONS</tspan>
+      <tspan x="870" dy="18" fill="#60FA60">+ Minimizes architectural friction and debt</tspan>
     </text>
   </g>
   
   <!-- Footer with animation -->
   <text x="600" y="850" font-family="monospace" font-size="16" fill="#9F5AFD" text-anchor="middle" opacity="0.7">
     <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
-    LIMITLESS TECHNIQUE SYSTEM - FULLY OPERATIONAL
+    CORE ENGINEERING SYSTEMS - FULLY OPERATIONAL
   </text>
 </svg>
