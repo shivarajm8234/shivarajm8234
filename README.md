@@ -32,16 +32,7 @@
 
 ## About Me
 
-```javascript
-const shivaraj = {
-    pronouns: "he" | "him",
-    location: "India",
-    role: "Senior Full-Stack and AI Systems Engineer",
-    specialization: "AI Agents, Automation and Scalable Web Apps",
-    currentFocus: "High-performance data ingestion and LLM integration",
-    funFact: "I believe a clean codebase is a quiet mind."
-};
-```
+
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
