@@ -1,0 +1,20 @@
+name: Purge Camo Cache
+
+on:
+  schedule:
+    # Run every hour to keep stats fresh
+    - cron: '0 * * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  camo-purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Purge GitHub Camo Cache
+        uses: kevincobain2000/action-camo-purge@v1

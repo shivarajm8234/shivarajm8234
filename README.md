@@ -84,10 +84,10 @@
 
 <div align="center">
   <a href="https://github.com/shivarajm8234">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=shivarajm8234&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117&amp;include_all_commits=true&amp;cache_seconds=86400" alt="GitHub Stats" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=shivarajm8234&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117&amp;include_all_commits=true&amp;cache_seconds=1800" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shivarajm8234">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=shivarajm8234&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=shivarajm8234&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;cache_seconds=1800" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
   <a href="https://github.com/shivarajm8234">
-    <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs?username=shivarajm8234&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;bg_color=0D1117&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=86400" alt="Top Languages" />
+    <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs?username=shivarajm8234&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;bg_color=0D1117&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
 
