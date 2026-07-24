@@ -111,7 +111,7 @@
 
 <div align="center">
 
-### *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### *"Writing Code is Not Enough,Writing Code is Enough"* — Shivaraj M
 
 <br>
 
