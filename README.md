@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Shivaraj%20M&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20and%20AI%20Systems%20Engineer%20%7C%20India%20🇮🇳&amp;descAlignY=55&amp;descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Shivaraj%20M&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20and%20AI%20Systems%20Engineer%20%7C%20India&amp;descAlignY=55&amp;descSize=18" width="100%" />
 
 <div align="center">
   <a href="mailto:shivarajmani2005@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=💻+Building+Intelligent+AI+Workflows;🚀+React+%7C+Node.js+%7C+Python;⚡+Automation+%7C+Web+Scraping;Targeting+Scalable+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=600&amp;lines=Building+Intelligent+AI+Workflows;React+%7C+Node.js+%7C+Python;Automation+%7C+Web+Scraping;Targeting+Scalable+Architectures" alt="Typing SVG" />
 </div>
 
 <br>
@@ -30,12 +30,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave emoji gif"> About Me
+## About Me
 
 ```javascript
 const shivaraj = {
     pronouns: "he" | "him",
-    location: "India 🇮🇳",
+    location: "India",
     role: "Senior Full-Stack and AI Systems Engineer",
     specialization: "AI Agents, Automation and Scalable Web Apps",
     currentFocus: "High-performance data ingestion and LLM integration",
@@ -45,12 +45,12 @@ const shivaraj = {
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I'm currently working with **Next.js, LLM Agents and Cloud Workflows**
-- 🤝 I'm looking to collaborate on **Advanced Automation and Web Systems**
-- 🏆 Projects completed: **50+ custom applications and automated pipelines**
-- 🌐 Check out my **[Portfolio](https://shivarajm8234.github.io/shivarajm8234/)**
-- 📫 Reach me at **shivarajmani2005@gmail.com**
-- ⚡ Fun fact: **I debug until the code works or the coffee runs out.**
+- I am currently working with **Next.js, LLM Agents and Cloud Workflows**
+- I am looking to collaborate on **Advanced Automation and Web Systems**
+- Projects completed: **50+ custom applications and automated pipelines**
+- Check out my **[Portfolio](https://shivarajm8234.github.io/shivarajm8234/)**
+- Reach me at **shivarajmani2005@gmail.com**
+- Fun fact: **I debug until the code works or the coffee runs out.**
 
 <br clear="both">
 
@@ -62,24 +62,24 @@ const shivaraj = {
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🎨 Frontend</h3>
+        <h3>Frontend</h3>
         <br>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&amp;perline=7" />
       </td>
       <td align="center" width="50%">
-        <h3>⚙️ Backend</h3>
+        <h3>Backend</h3>
         <br>
         <img src="https://skillicons.dev/icons?i=python,nodejs,express,flask&amp;perline=4" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3>🗄️ Database and Cloud</h3>
+        <h3>Database and Cloud</h3>
         <br>
         <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&amp;perline=3" />
       </td>
       <td align="center" width="50%">
-        <h3>🔧 Tools and Platforms</h3>
+        <h3>Tools and Platforms</h3>
         <br>
         <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&amp;perline=4" />
       </td>
@@ -104,7 +104,7 @@ const shivaraj = {
 
 <div align="center">
   <a href="https://github.com/shivarajm8234">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarajm8234&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;bg_color=0D1117&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=86400" alt="Top Languages" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivarajm8234&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;bg_color=0D1117&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=86400" alt="Top Languages" />
   </a>
 </div>
 
@@ -120,7 +120,7 @@ const shivaraj = {
 
 <div align="center">
 
-### 💬 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br>
 
