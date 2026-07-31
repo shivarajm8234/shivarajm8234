@@ -39,7 +39,7 @@
 - I am currently working with **Next.js, LLM Agents and Cloud Workflows**
 - I am looking to collaborate on **Advanced Automation and Web Systems**
 - Projects completed: **50+ custom applications and automated pipelines**
-- Check out my **[Portfolio](https://shivarajm8234.github.io/shivarajm8234/)**
+- Check out my **[Portfolio](https://shivaraj-m.web.app/)**
 - Reach me at **shivarajmani2005@gmail.com**
 - Fun fact: **I debug until the code works or the coffee runs out.**
 
