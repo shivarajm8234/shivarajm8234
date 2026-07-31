@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mshivaraj/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://shivarajm8234.github.io/shivarajm8234/" target="_blank" rel="noopener noreferrer">
+  <a href="https://shivaraj-m.web.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Portfolio&amp;logo=googlechrome&amp;label=&amp;color=4285F4&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
   <a href="https://leetcode.com/u/shivarajm8234/" target="_blank" rel="noopener noreferrer">
